@@ -1,0 +1,82 @@
+{
+  "name": "ゲノム生物学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB10501",
+  "semester": "2026年度 後期",
+  "date": "火 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "西 良太郎",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.157478Z",
+  "overview": "生物の多様な生命現象はゲノムDNAにコードされた情報によって規定されている。すなわち、ゲノムDNAの正確な維持、及びその次世代への継承は生物個体のみならず、種の存続にとっても極めて重要である。本講義では、ヒトゲノムDNAの恒常性を維持する機構として重要なDNA修復機構について学修する。多様なDNA機構に関する基礎的な知識を習得したうえで、それに加えて最新の研究成果についても学ぶ。 The diverse life phenomena of living organisms are governed by information encoded in genomic DNA. Accordingly, the accurate maintenance of genomic DNA and its inheritance to the next generation are extremely important not only for individual organisms but also for the survival of species. In this course, students will study DNA repair mechanisms that play a crucial role in maintaining the homeostasis of human genomic DNA. After acquiring fundamental knowledge of various DNA repair mechanisms, students will also learn about recent advances in this field.",
+  "goal": "本講義では、ヒトゲノムDNAの恒常性を維持する機構について実学に基づく専門能力を身につけることを目標とする。すなわち、DNA修復機構に関する知見を学修する。また、英語による国際的な感覚・コミュニケーション能力を身につけることを目標とする。さらに、DNA修復機構に関する最新の研究情報を自ら検索し、紹介する能力の醸成を目標とする。 The aim of this course is to develop practical, discipline-based professional competence in mechanisms that maintain the homeostasis of human genomic DNA. Specifically, students will acquire knowledge of DNA repair mechanisms. In addition, the course aims to foster an international perspective and communication skills through the use of English. Furthermore, students are expected to develop the ability to independently search for and present up-to-date research findings related to DNA repair mechanisms.",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "講義はパワーポイント資料を使用して行う。ノートPC あるいはスマートフォンは講義時間内での調査学修に使用するため必携である。講義中は指名-回答-解説によるアクティブラーニングを行う。本講義は、英語と日本語を併用しながら進行する。また、第7回のショートトークプレゼンテーションでは各学生が登壇する発表を実施し、講義内でそのフィードバックを行う。 The lectures will be conducted using PowerPoint materials. Students are required to bring a laptop computer or a tablet device, which will be used during class for viewing lecture materials and for inquiry-based learning activities. During the lectures, active learning will be implemented through a call–response–explanation format. This course will be conducted using both English and Japanese. In addition, in the short talk presentation in Session 7, each student will deliver an oral presentation, and feedback will be provided during the class.",
+  "attention": "分子生物学の知識を前提とする内容を取り扱うことから、学部における分子生物学、細胞生物学に関連する講義を復習しておくことが望ましい。 As this course covers content that presupposes knowledge of molecular biology, it is advisable for students to review lectures related to molecular biology and cell biology taken at the undergraduate level.",
+  "preparation": "Moodle上にアップロードされる講義資料を利用して予習を行うこと。講義内ではこれらの資料を読了していることを前提に討論を行う反転授業形式を取り入れる。 Students are expected to prepare for each class by reviewing the lecture materials uploaded to Moodle in advance. The course will adopt a flipped classroom format, in which in-class discussions are conducted on the premise that students have completed reading these materials beforehand.",
+  "evaluation": "アクティブラーニングの結果（10%）、及びショートトークプレゼンテーション（90%）により評価する。 Assessment will be based on active learning activities (10%) and the short talk presentation (90%).",
+  "texts": [
+    {
+      "name": "指定しない。 not defined.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "DNA Repair and Mutagenesis second edition (ASM press) The Cell 細胞の分子生物学 第6版 日本語（Newton press）",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Sources and Consequences of DNA damage, DNA損傷要因とその影響",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Mechanism of nucleotide excision repair, ヌクレオチド除去修復機構",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Mechanisms of base excision repair, 塩基除去修復機構",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Cellular responses to DNA damage , 細胞のDNA損傷に対する応答",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Molecular mechanism of DNA double-strand break repair, DNA二本鎖切断修復の分子機構",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "The latest researches investigating molecular mechanisms of maintaining integrity of genome DNA, ゲノムDNA恒常性維持に関わる最新の分子生物学的研究",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Short presentations related to genome biology, ゲノム生物学に関するショートトークプレゼンテーション",
+        "incharge": null
+      }
+    }
+  ]
+}

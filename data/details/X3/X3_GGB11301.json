@@ -1,0 +1,82 @@
+{
+  "name": "発生・細胞工学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11301",
+  "semester": "2026年度 前期",
+  "date": "月 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "杉山 友康",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.230362Z",
+  "overview": "最近の幹細胞を主題とした科学は、変性した組織の再構築を可能にする希望を与えただけでなく、癌という病気のしくみの理解に大きく貢献してきた。工学的な革新的技術も、このような分野の科学に大きく貢献している。製薬メーカーの研究所においてバイオテクノロジーを利用した医薬の開発に従事した実務経験に基づいた解説を行う。本講義は、発生・細胞工学の諸課題について、作業仮説とその実証を、過去の優れた科学論文を参考にして解説する実践的科目である。また、受講者による調査発表を行う。受講によって、医薬開発を提案する基礎知識が得られる。 Recent stem cell research has also contributed to our understanding of the mechanisms behind cancer. Innovative engineering technologies have also played a major role in advancing this scientific field. This course provides explanations based on practical experience in developing biotechnological drugs at pharmaceutical research laboratories. It is a practical course that examines various issues in developmental and cellular engineering, focusing on working hypotheses and their verification through the study of landmark scientific papers. In addition, students will conduct research presentations. Through this course, students will acquire the foundational knowledge necessary to propose pharmaceutical developments.",
+  "goal": "本講義では、生命科学についての実学に基づく専門能力を身に付けることを目指す。その専門力とは、具体的に以下のことを示す。 （１）細胞培養法開発の考え方を説明できる （２）幹細胞研究の考え方を説明できる また、英語論文の解説をとおして学術論文の読み方を習得する。そしてグループワークをとおしてコミュニケーション能力を身につけることも目指す。 This course aims to help students acquire professional competencies in life sciences based on practical science. Specifically, students will develop the following abilities: (1) To explain the conceptual approach to developing cell culture methods. (2) To explain the core concepts of stem cell research. Furthermore, students will master the methodology for reading academic papers through the analysis of English-language research articles. The course also aims to develop communication skills through group work activities.",
+  "outcomes": "コミュニケーション能力、分析・評価能力",
+  "initiative": "",
+  "way": "【授業形態：講義】 講義形式で授業を進め、Moodleでの配布資料にそって、解説を行う。とくに、原著論文の紹介を主体とする。解説は英語と日本語で行う。また、3名程度のグループでの調査課題を課す。グループワークによって調査した内容を講義時間内で紹介していただく。ノートPCはmoodleの閲覧やグループワークでの発表に使用する。 [Course Format: Lecture] The course will be conducted in a lecture format, with explanations based on materials distributed via Moodle. In particular, the content will focus on the introduction of original research papers. Explanations will be provided in both English and Japanese. Additionally, students will be assigned a research project to be completed in groups of approximately three. Each group will be expected to present their findings during class hours. Laptops will be used for accessing Moodle and for presentations during group work.",
+  "attention": "分子生物学の知識を有すること。 Students are expected to have a basic knowledge of molecular biology.",
+  "preparation": "予習：各回に指定する講義資料をMoodleからダウンロードして印刷しておくこと。さらに、その資料内容について、アブストラクトに相当する箇所を確認しておくこと。 復習：毎回の資料を再確認してください。 Preparation: Download and print the lecture materials specified for each session from Moodle. Additionally, ensure you have reviewed the sections corresponding to the abstract within those materials. Review: Please re-examine the materials provided in each session.",
+  "evaluation": "講義でのグループ課題に対するグループワーク調査発表（7割）とレポート作成（3割）で総合的に評価する。最終授業で全体に対するフィードバックを行う。 Grading will be based on a comprehensive evaluation of group research presentations (70%) and report assignments (30%). Feedback for the entire class will be provided during the final session.",
+  "texts": [
+    {
+      "name": "なし None",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "moodleで指定した文献資料を配布する Literature and materials specified on Moodle will be distributed.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "発生・細胞工学特論に関する概要",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "再生に必要な細胞",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "成体幹細胞の培養技術",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "胚性幹細胞の培養技術",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "幹細胞を支えるニッチ",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "幹細胞と癌幹細胞",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "幹細胞を利用した組織工学",
+        "incharge": null
+      }
+    }
+  ]
+}

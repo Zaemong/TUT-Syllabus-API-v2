@@ -1,0 +1,82 @@
+{
+  "name": "先端ゲームデザイン特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM10301",
+  "semester": "2026年度 前期",
+  "date": "木 3",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０３",
+  "teachers": [
+    {
+      "name": "三上 浩司",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.175260Z",
+  "overview": "ゲームは日本を代表するコンテンツのひとつであり，国際的なマーケットでも高く評価されているコンテンツである．特に80年代から2000年初頭にかけて，独創的なゲームが多く開発され，世界の他の地域では見られない独特なゲームデザインを有するに至っている． 本授業では，こうした世界を先進する日本独特のゲームデザインについて，受講者とともに分析議論する． Video games are one of Japan's most representative forms of content and are highly regarded in the international market. Particularly from the 1980s to the early 2000s, many uniquely creative games were developed, leading to a distinctive game design that was not seen in other regions of the world. In this course, students will analyze and discuss the unique Japanese game design that has been at the forefront of the world.",
+  "goal": "・ゲームの分析能力を習得する（Develop the ability to analyze games critically.） ・独自性のあるゲームデザインを考案できる（Develop the ability to design original and innovative game concepts.） ・ゲームの評価方法を身に着ける（Develop a strong understanding of game evaluation methodologies.）",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "授業は講義とそれに基づく調査分析を経て，発表と議論により進める． 講義は，ゲームデザインに関わる理論を紹介し，それらをもとに最新のゲームを分析し，各自で発表を行う．毎回の授業ではノートPCを通じて授業資料を閲覧したり，発表の際にPCを利用する． The course combines lectures with student-led research, analysis, presentations, and discussions. Lectures will cover key theories in game design, providing a foundation for students to analyze current games. Students will conduct independent research, present their findings, and engage in critical discussions. During each class, students will use their laptops to view class materials and when making presentations.",
+  "attention": "授業時間以外に調査分析の時間が必要です． Significant time commitment outside of scheduled class hours will be required for research and analysis.",
+  "preparation": "授業で講義した内容に沿って，各自でゲームの分析(120分程度)を行い，発表のための資料を作成（120分程度）してください．（授業では，講義と発表，議論を行います．） Following each lecture, students are expected to independently analyze games relevant to the topics covered in class (appx. 120min). This analysis should inform the preparation of presentation materials(appx. 120min). (Please note that class time will be devoted to lectures, presentations, and discussions.)",
+  "evaluation": "課題の質（50％），発表（30％），議論への参加（20％）により採点します． 毎回の授業で課題に対するフィードバックをします． 60点以上で単位取得が認められます． Grades will be determined based on the following criteria: Quality of Assignments (50%), Presentations (30%), Participation in Discussions (20%). Feedback is given on assignments in every lesson. A minimum score of 60% is required to pass the course.",
+  "texts": [
+    {
+      "name": "CGとゲームの技術（コロナ社）",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "適宜指示します． Appropriate instructions will be given.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "ゲームデザイン研究のサーベイ（Survey of Game Design Studies）",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "遊びにおけるデザイン（ホイジンガ，カイヨワ）（Theories of Play and Game Design: Huizinga and Caillois）",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "発表，ディスカッション（Presentations and Discussion）",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "ゲームの最先端を考える（CESAロードマップ）（The Future of Games: Insights from the CESA Roadmap）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "発表，ディスカッション（Presentations and Discussion）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "最先端のゲームの体験（Experiencing Cutting-Edge Games）",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "最終発表（Final Presentations）",
+        "incharge": null
+      }
+    }
+  ]
+}

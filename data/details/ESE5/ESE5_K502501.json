@@ -1,0 +1,124 @@
+{
+  "name": "ロボット運動学",
+  "category": "専門教育科目 専門",
+  "type": "講義科目",
+  "code": "K502501",
+  "semester": "2026年度 前期",
+  "date": "月 1",
+  "target": "3年,4年",
+  "credit": "2.0",
+  "room": "研究棟Ａ４０３",
+  "teachers": [
+    {
+      "name": "関口 暁宣",
+      "affiliation": "機械工学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:20.491901Z",
+  "overview": "ロボットに関わる理論や技術は，広範な工学分野をもとに成り立っている．本科目では，特にロボットの運動に関わる理論である，ロボットの運動学や動力学などについて学ぶ．ロボットの運動を数学モデルによって表現し解析するための基礎理論を学ぶことにより，所望の運動を実現するロボットシステムを設計し動作させるために不可欠となる基礎知識を身につけることが目的である．基礎力学，機械力学の内容を理解していることを前提とする．この授業により，座標系やその変換を利用したロボットの運動の表現方法，ロボットの運動学の基礎，ロボットの動力学の基礎といった，ロボットシステムの運動解析や運動制御において重要な基礎知識が身につく．",
+  "goal": "本科目では，以下を到達目標とする． 1) 剛体の位置・姿勢の表現と座標変換について理解し，説明できる． 2) ロボットの運動学について理解し，多関節ロボットの手先位置と関節角度の関係を表現，解析することができる． 3) ヤコビ行列について理解し，多関節ロボットの手先速度と関節角速度の関係を表現，解析することができる． 4) ロボットの動力学について理解し，多関節ロボットの運動方程式を導出できる．",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "講義資料や黒板を用いた授業と，講義内容について理解を深めるための演習を行う．指名-回答-解説などのアクティブラーニング形式も取り入れた授業を行う．また，理解度の確認のために適宜理解度チェックも行う． ノートPCは必携ではないが，Moodleの資料を閲覧できる環境を用意すること．",
+  "attention": "授業では必ず講義ノートを作成すること．率先して演習に当たるなど，積極的な履修態度を望む． 微分積分，線形代数，基礎力学の知識が必要であるため，事前に復習しておくことが望ましい．",
+  "preparation": "予習： 授業計画のキーワードについて教科書やインターネット等で調査しておくこと．（120分程度） 復習： 講義ノートの整理，および演習問題の復習を行うこと．（120分程度）",
+  "evaluation": "期末試験の成績（60％），演習課題および理解度チェック（40％）に基づき評価を行う． 授業の冒頭やMoodleで演習課題等についてのフィードバックを行う．",
+  "texts": [
+    {
+      "name": "金宮 好和（Dragomir N. Nenchev）：英語で学ぶロボット工学 －運動学，動力学と制御－，コロナ社 ISBN： 978-4-339-04588-8",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "必要に応じて講義中に紹介する．",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Introduction",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Rotational Kinematics (1)（Rotation Matrix，Euler Angles，他）",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Rotational Kinematics (2)（Euler Axis/Angle，他）",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Rotational Kinematics (3)（Angular Velocity，他）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Forward Kinematics (1)（Homogeneous Transform，他）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Forward Kinematics (2)（Forward Kinematics for Position/Orientation，他）",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Forward Kinematics (3)（Forward Kinematics for Velocities，他）",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Inverse Kinematics (1)（Inverse Kinematics for Position/ Orientation，他）",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Inverse Kinematics (2)（Inverse Kinematics for Velocities，他）",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Inverse Kinematics (3)（Kinematic Singularities，他）",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Forward Kinematics, Inverse Kinematicsのまとめ",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Robot Dynamics (1)（Equation of Motion of a Rigid Body，他）",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Robot Dynamics (2)（Euler-Lagrange Formulation，他）",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "Robot Dynamics (3)（Newton-Euler Formulation，他），ロボット運動学のまとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

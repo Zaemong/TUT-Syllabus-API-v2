@@ -1,0 +1,39 @@
+{
+  "name": "機能性食品特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB14201",
+  "semester": "2026年度 前期",
+  "date": "月 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "西野 勝俊",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.165800Z",
+  "overview": "近年、食品には生命活動の維持だけではなく、健康増進、病気予防の効果も求められるようになった。そのような効果を持つ食品は、機能性食品として、市場に存在する。しかし、食品の機能性は、近年になって、注目は浴びてきているものの、生物は、古代から植物を摂取することで、経験的に植物がもつ「機能性」の恩恵を受けてきた。本講義は、現在の食品（植物）の機能性化合物の探索につながる天然物化学の歴史を取り扱いながら、現在の機能性食品を取り巻く環境について、教員の実務経験を交えながら、説明を行う実践的科目である。 In recent years, foods have come to be required not only to maintain vital activities but also to promote health and prevent disease. Foods with such effects exist in the market as functional foods. However, although the functionality of foods has been gaining more attention in recent years, organisms have empirically benefited from the “functionality” of plants by ingesting them since ancient times. This lecture will deal with the history of natural product chemistry leading to the current search for functional compounds in foods (plants), and will explain the current environment surrounding functional foods, including the actual experiences of the faculty.",
+  "goal": "機能性食品の背景や歴史についての知識を得るとともに、実際の手法について学習することで、実学に基づく専門知識の定着を目指す。また、プレゼンテーションを行うことで、対外的に説明する能力の向上を目指す。 This course aims to establish expertise based on practical learning by acquiring knowledge of the background and history of functional foods as well as learning about actual methods. In addition, the course aims to improve students' ability to explain externally through presentations in this lecture.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "英語による授業、実務家教員による授業",
+  "way": "講義と課題提出を基本とする。講義内容はmoodle上で公開するので、毎回ノートPCを必ず持参すること。なお、英語で授業を進めることがある。 The course is based on lectures and submission of assignments. Lectures will be posted on moodle, so be sure to bring your laptop to each class. The lectures may be given in English.",
+  "attention": "「機能性食品学」「栄養化学」「機器分析」の講義の単位を取得していることを前提として講義を進める。課題のフィードバックを行うので、自分の回答と同じ点、違う点を比較、復習すること。 The lecture will proceed on the assumption that students have obtained credits for “Functional Foods,” “Nutritional Chemistry,” and “Instrumental analysis.” Feedback will be given on the assignments, so students should compare and review the points that are the same or different from their own answers.",
+  "preparation": "「機能性食品学」「栄養化学」「機器分析」、およびmoodle上で配布する講義資料を、講義前に読んでおくこと(30分程度)。講義後は、課題の解説や講義内容を復習すること(30分程度)。 Students are required to read “Functional Foods,” “Nutritional Chemistry,”“Instrumental analysis” and the lecture materials distributed on moodle before the lecture. After the lecture, students should review the explanations of assignments and lecture content.",
+  "evaluation": "課題および出席で50%、プレゼンテーションで50％。 50% for assignments and attendance, 50% for presentations.",
+  "texts": [
+    {
+      "name": "特に指定なし Not specified",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "特に指定なし Not specified",
+      "isbn": null
+    }
+  ],
+  "plans": []
+}

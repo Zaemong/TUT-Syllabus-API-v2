@@ -1,0 +1,82 @@
+{
+  "name": "音声情報アクセシビリティ特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM13501",
+  "semester": "2026年度 前期",
+  "date": "火 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "",
+  "teachers": [
+    {
+      "name": "吉岡 英樹",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.197570Z",
+  "overview": "アクセシビリティ(Accessibility)とは、「近づきやすさ」や「使いやすさ」を意味し、高齢者・障害者・その他社会的に少数派とされている人々も含め、誰もが製品やサービスを利用しやすい工夫をしている状態を意味します。「音声アクセシビリティ」という言葉は本講義で扱う造語で、日本ではまだ普及していません。一方で、英語では「Audio Accessibility」という言葉があり、聴覚障害者など音声情報へのアクセスが難しい人々に対して聞きやすく工夫したり、字幕をつけたりする配慮のことを指します。「音声アクセシビリティ」と「Audio Accessibility」は同義語であると定義します。 本講義では、音声アクセシビリティがどのように実現されているかについて、事例や先行研究を元に解説します。また、現時点の社会的課題や技術的課題が何かを考察し、どのようにアップデートすれば「聞こえない」もしくは「聞こえにくい」人々が暮らしやすい社会になるかをディスカッションします。 In English, the term \"Audio Accessibility\" exists and refers to measures such as making audio information easier to access for individuals who are deaf or hard of hearing, or providing subtitles to enhance accessibility. In this lecture, how audio accessibility is being achieved will be explained, based on examples and previous research.We will also examine the current social and technical challenges and discuss how to make updates to create a society where people who are deaf or hard of hearing can live more comfortably.",
+  "goal": "世界的に人権保護の意識が高まる中、音声アクセシビリティについて学ことにより、国際的な教養を身につけます。また、現在の社会における課題を発見し、そのソリューションを議論することにより問題解決力を向上させます。 Amid growing global awareness of human rights protection, learning about audio accessibility helps to cultivate an international perspective. Additionally, by identifying current societal challenges and discussing potential solutions, this course aims to enhance problem-solving skills.",
+  "outcomes": "国際的な教養、問題解決力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "スライドを利用した講義形式の授業です。授業中に発言してもらったり、チャットでコミュニケーションをとったりして、授業内容について議論するアクティブラーニング形式で進めます。パソコンの操作を行うため各自のノートパソコンを持参して下さい。 また、毎回授業内容をしっかり理解したかを確認するために、Googleフォームから授業の考察等を提出します。なお、英語で受講する学生がいる場合は、リアルタイム字幕を使って多言語表示をしたり、英語による質疑応答を可能とします。 This course is conducted in a lecture format using slides. It adopts an active learning approach, encouraging students to participate in discussions by speaking during class or communicating via chat. Please bring your own laptop for performing computer operations. To ensure a thorough understanding of the content, students are required to submit reflections or analyses of the class via Google Forms after each session. Additionally, if there are students attending in English, real-time subtitles will be used for multilingual displays, and questions and answers in English will be accommodated.",
+  "attention": "授業を聞くだけでなく、自分の意見を発言し、他の人と議論をすること。 Don't just listen to lectures, but express your opinions and discuss with others.",
+  "preparation": "アクセシビリティや聴覚障害について、書籍やインターネットで調査しておくと授業内容をより理解することが出来ます。 予習(120分)：次の授業内容に該当する教科書のページを読み、分からない用語や内容についてインターネットや書籍で調査を行う。調査した内容はWord等で保存し、授業中に参照する。 復習(120分)：配布する授業資料(PDF)を読み、理解していない箇所について改めてインターネットや書籍で調査をし、Word等で保存する。 Researching accessibility and the experiences of people who are deaf or hard of hearing through books and the internet beforehand will help you gain a better understanding of the course content.",
+  "evaluation": "授業後に提出する課題(全7回)【100％】で評価し、60点以上を単位認定要件とします。授業内の課題のフィードバックは、次週の冒頭で行います。また、その他音楽産業に関わる質問も受け付け、毎回回答をします。 The evaluation will be based on assignments submitted after each class (a total of 7 assignments) [100%], with a minimum score of 60 required for course credit. Feedback on assignments will be provided at the beginning of the following class. Additionally, questions related to the music industry will be accepted and addressed in each session.",
+  "texts": [
+    {
+      "name": "指定しない。 There are no assigned textbooks.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "必要に応じて参考書を紹介します。 Reference books will be recommended as needed.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "アクセシビリティ",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "聴覚障害の種類",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "補聴器と人工内耳",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "ろう者を対象とした音声アクセシビリティ",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "難聴者を対象とした音声アクセシビリティ",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "リアルタイムテキスト",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "現状の課題と展望",
+        "incharge": null
+      }
+    }
+  ]
+}

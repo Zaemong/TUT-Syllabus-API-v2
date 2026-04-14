@@ -1,0 +1,82 @@
+{
+  "name": "分子腫瘍学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB10801",
+  "semester": "2026年度 前期",
+  "date": "月 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０３",
+  "teachers": [
+    {
+      "name": "岡田 麻衣子",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.118558Z",
+  "overview": "バイオテクノロジーの飛躍的な発展と共にがんの発症や悪性化の仕組みが分子レベルで明らかになりつつある。一方で、超高齢化社会に突入した我が国ではがんの罹患率・死亡率は増加の一途をたどっており、新たな抗がん剤の開発は急務となっている。 本講義ではがん治療をテーマとした最新の研究トピックスを適宜紹介し、抗がん剤の開発の基盤となる分子生物学の知識や技術について解説する。また、これらの理解を深めることで研究遂行における論理的思考について学ぶ。 The advent of biotechnology has led to a rapid advances in our understanding of the molecular mechanisms underlying cancer development and malignant transformation. However, as our country faces the challenges of an aging society, the cancer incidence and mortality rates of cancer continue to rise, making the development of new anticancer drugs an urgent priority. This lecture will introduce cutting-edge research topics in cancer therapy and provide a clear explanation of the molecular biology knowledge and techniques that underlie the development of anticancer drugs. In addition, students will enhance their understanding of these concepts while cultivating the reasoning skills essential to conducting research.",
+  "goal": "本講義では、分子腫瘍学についての実学に基づく専門力を身につけることを目指す。「がん治療」をテーマとしたトピックスの紹介を通じて、創薬研究の基盤となる分子生物学の知識や技術の理解を目標とする。 これらの理解を通じて研究データの解釈や問題点の分析、研究計画の立案といった、研究の遂行における一連の論理的な思考を身につけることを目指す。 This course is designed to equip students with practical and specialized skills in molecular oncology. By exploring topics related to cancer therapy, the course aims to help students understand the molecular biology knowledge and techniques fundamental to drug discovery research. Furthermore, the course is structured to foster students' reasoning and thinking skills, which are indispensable for conducting research. These skills include interpreting research data, analyzing problems, and formulating research plans.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、コミュニケーション能力、論理的な思考力、分析・評価能力、問題解決力",
+  "initiative": "AIの積極的な学びや活用、アクティブラーニング",
+  "way": "パワーポイントを用いて講義を行い、指名－回答－解説を中心としたアクティブラーニングを適宜取り入れる。学生は、事前に穴埋め形式の講義資料をダウンロードして予習を行い、講義内の課題に取り組むため、各自ノートPCを持参すること。 研究結果の解釈、問題点の分析、研究計画の立案については、具体的な研究データや模擬データを用いた解説および演習を通して理解を深める。また、一部の講義では、英語によるプレゼンテーション練習やグループワークを取り入れ、実践的な学習を行う。 各回の講義では課題を課すとともに、生成AIを活用した課題への取り組み方法を紹介し、主体的な学習を支援する。 Lectures will be conducted using PowerPoint slides, with active learning incorporated as appropriate through nomination, student responses, and instructor explanations. Students are required to download fill-in-the-blank lecture materials in advance and bring their own PCs for in-class assignments. Exercises using sample and simulated data will be provided to develop skills in interpreting research results, analyzing problems, and planning research. In some sessions, students will practice English presentations and participate in group work activities. Assignments will be given in each class, and the use of generative AI for learning will be introduced to promote independent and active learning.",
+  "attention": "生命科学ⅠやⅡ、細胞生物学、分子生物学などの生物関連の講義をよく復習してから受講すること。 Before taking this course, you should review the content of biology-related lectures such as Life Science I and II, Cell Biology, and Molecular Biology.",
+  "preparation": "予習：Moodleにアップロードした講義資料を確認すること。講義冒頭で前講義回の課題を解説するので、理解が深まるように事前に各自の解答と講義資料を見返しておくこと。 復習：講義内容を踏まえて各講義課題を提出すること。 Preparation: Check the lecture materials uploaded to Moodle. The assignment from the previous lecture will be explain at the beginning of the lecture, so please review your answers and the lecture materials beforehand to deepen your understanding. Review: Submit each lecture assignment based on the lecture content.",
+  "evaluation": "全ての講義への出席を前提とし、講義ごとに理解度チェックを目的とした課題を課す。課題については次回の講義冒頭において解説してフィードバックする。各回の課題を50%、最終レポートを50%として評価する。 Attendance at all lectures is required. Each lecture will include an assignment to check your level of understanding. The assignment will be explained at the beginning of the next lecture, and feedback will be given. Each assignment will be assessed as 50%, and the final report will be assessed as 50%.",
+  "texts": [
+    {
+      "name": "指定しない Not specified",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「THE CELL 細胞の分子生物学」日本語版 第6版 ・著者：B. Alberts、A. D. Johnson、J. Lewis、D. Morgan、M. Raff、 K. Roberts、P. Walter ・出版社：ニュートンプレス Molecular biology of The Cell (6th) ・Author: B. Alberts, A. D. Johnson, J. Lewis, D. Morgan, M. Raff, K. Roberts and P. Walter ・Publisher: W. W. Norton &amp; Company",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "がん細胞における遺伝情報の発現・維持機構の破綻",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "分子標的薬開発の意義",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "DNA修復機構の破綻に基づくがん治療",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "転写制御機構に基づくがん治療",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "転写制御機構の解析手法",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "タンパク質分解機構に基づくがん治療",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "タンパク質分解機構の解析手法",
+        "incharge": null
+      }
+    }
+  ]
+}

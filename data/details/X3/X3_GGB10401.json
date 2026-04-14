@@ -1,0 +1,82 @@
+{
+  "name": "分子遺伝学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB10401",
+  "semester": "2026年度 後期",
+  "date": "火 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ１０４",
+  "teachers": [
+    {
+      "name": "村上 優子",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.195551Z",
+  "overview": "遺伝学はあらゆる生物学の基礎となっている。本講義では分子遺伝学を基盤として生命現象の遺伝学的解析法、遺伝子異常と疾患発生との関連の概略を学ぶ。また、進歩の著しいゲノム医療の俯瞰、活用される統計学、ゲノムリテラシーについての解説及び演習を行う。 さらに、論文を読解することで最新の研究を英語で理解し、得られた内容を受講者に向け発表しディスカッションする。これらのことから、創薬に必要な基礎知識を得るとともに、研究遂行に必要な考え方について学ぶ。 Genetics forms the foundation of all biology. In this lecture, we will study the genetic analysis of biological phenomena based on molecular genetics, and gain an overview of the relationship between gene abnormalities and disease development. Additionally, we will provide an overview of the rapidly advancing field of genomic medicine, explain the statistical methods used, and discuss genomic literacy, with exercises included. Furthermore, by reading research papers, students will learn to understand the latest research in English and present and discuss the findings with their peers. Through these activities, participants will gain the foundational knowledge necessary for drug discovery and learn the thinking processes required for conducting research.",
+  "goal": "生命現象の遺伝学的解析方法、遺伝子異常と疾患発生との関係の概略、医療に用いられる統計解析の基礎を習得する。 The goal of this lecture are as follows: 1. Genetic Analysis Methods: Acquire knowledge of methods for analyzing biological phenomena from a genetic perspective. 2. Genetic Abnormalities and Disease Development: Understand the relationship between genetic abnormalities and the onset of diseases. 3. Statistical Analysis in Medicine: Learn the fundamentals of statistical analysis applied in the medical field.",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "分子遺伝学の知識の習得に関しては講義形式で適宜英語を用いて行う。各回の最後に講義の内容の確認を行い、講義最終回には理解度チェックを行う。各回の理解度については次回の講義時にフィードバックを行う。また、調査課題について資料を英語で作成し発表し、それをもとに受講者同士で議論を行うことでアクティブラーニングを促す。ノートPCは必要に応じて使用する。 Knowledge acquisition in molecular genetics will be conducted in a lecture format, with English used as appropriate. At the end of each lecture, practice exercises will be provided to confirm understanding of the content, and feedback will be given during the next lecture. A comprehension test will be conducted in the final lecture. For research assignments, students will prepare materials in English and present them during class. Discussions among participants will then be held based on the presentations. Attendance registration and submission of answers to the practice exercises will be done using a laptop or smartphone.",
+  "attention": "生命科学、生物化学、分子生物学関連の講義を履修していることが望ましい。 It is recommended to have completed courses related to life sciences, biochemistry, or molecular biology.",
+  "preparation": "予習：課題発表のための英語論文検索・読解・発表資料作成 復習：各回の練習問題の見直し、および試験のための講義資料の見直し Preparation: Search for, read, and understand English research papers and prepare presentation materials for assignments. Review: Go over the practice exercises from each session and review lecture materials for the exam.",
+  "evaluation": "練習問題 40% 試験 40% 課題発表 20% の配分で評価する。 Evaluation will be based on the following distribution: Practice exercises: 40% Exam: 40% Assignment presentations: 20%",
+  "texts": [
+    {
+      "name": "指定しない Textbooks will not be assigned.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「バイオ研究に役立つ一歩進んだ遺伝学」R.Scott Hawley, Michelle Y. Walker, 芹沢 宏明 (翻訳)（羊土社） 「Lewin's Genes XII」Jocelyn E. Krebs, Elliott S. Goldstein, Stephen T. Kilpatrick（Jones &amp; Bartlett Learning） 「ヒトの分子遺伝学 第4版 (日本語)」村松正實 (監修, 翻訳), 木南 凌 (監修, 翻訳), 笹月健彦 (翻訳), 辻 省次 (翻訳)（メディカルサイエンスインターナショナル） 「遺伝医学」渡邉淳（羊土社）",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "モデル生物、遺伝学（１）：変異体の獲得、変異の種類、変異体の解析",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "遺伝学（２）：エピスタシス、モザイク分析、遺伝子マッピング、減数分裂",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "ゲノム情報を診断・医療で活かす",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "ゲノム医療で活用される統計",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "発表",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "試験",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "講演（分子遺伝学の最新のトピックス）",
+        "incharge": null
+      }
+    }
+  ]
+}

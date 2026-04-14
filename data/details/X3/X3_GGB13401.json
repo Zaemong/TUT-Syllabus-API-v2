@@ -1,0 +1,82 @@
+{
+  "name": "発酵食品学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB13401",
+  "semester": "2026年度 後期",
+  "date": "木 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０３",
+  "teachers": [
+    {
+      "name": "中村 知世",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.148056Z",
+  "overview": "発酵食品は微生物の発酵によって食品が変化し、味や栄養価が高まった食品のことをいう。発酵食品は身近なものであるが、食品により様々な微生物が関与して異なった働きをしている。本講義では、どのような発酵食品が存在し、その発酵食品にはどのような微生物が関わり、どのような発酵が行われているのかについて解説を行う。最終回にはそれぞれが興味を持った発酵食品についてプレゼンテーションを行ってもらう。 Fermented foods are those in which microorganisms alter the food through fermentation, enhancing its flavour and nutritional value. Whilst fermented foods are commonplace, different microorganisms are involved in each type, performing distinct functions. This lecture will explain what kinds of fermented foods exist, which microorganisms are involved in each, and what fermentation processes occur. In the final session, students will give presentations on fermented foods that interest them.",
+  "goal": "発酵食品への理解を深めることで、微生物や食品に対する知識を身に着ける。これにより社会での食品における微生物の利用技術についての実学に基づく専門能力を身に付けることを目指す。 各回で提出する課題で論理的な思考力と問題解決能力を、最終回のプレゼンテーションでコミュニケーション能力と論理的な思考力、問題解決力を養うことを目指す。 By deepening understanding of fermented foods, students will acquire knowledge of microorganisms and foodstuffs. This aims to develop practical expertise in the utilisation of microorganisms in food within society. Through assignments submitted each session, students will cultivate logical thinking and problem-solving abilities. The final presentation session aims to foster communication skills alongside logical thinking and problem-solving capabilities.",
+  "outcomes": "実学に基づく専門能力、コミュニケーション能力、論理的な思考力、問題解決力",
+  "initiative": "",
+  "way": "講義形式で行う。各回のノートPCの持参は必須ではないが、最終回のプレゼンテーションではPCを使用して発表してもらうため、必ず持参すること。 The course will be conducted in lecture format. While bringing a laptop to each session is not mandatory, you must bring yours to the final session as you will be required to give your presentation using a computer.",
+  "attention": "学部で開講している微生物系、食品系の講義の復習を十分に行っておくこと。 Ensure you thoroughly revise the lectures on microbiology and food science offered at the undergraduate level.",
+  "preparation": "各講義毎に課題を提示するので、各自で調査し提出すること。また最終回には各自が興味のある発酵食品について発表してもらうので、そのための準備をしておくこと。 Assignments will be set for each lecture; students are to research and submit these individually. Furthermore, for the final session, each student will give a presentation on a fermented food of their choice; please prepare accordingly.",
+  "evaluation": "出席を前提に、各講義毎の課題（30％）とプレゼンテーション（70％）で評価する。なお、各課題、プレゼンテーションについては次回講義の中でフィードバックを行う。 Assessment will be based on attendance, with each lecture's assignments (30%) and presentations (70%) contributing to the final mark. Feedback on each assignment and presentation will be provided during the subsequent lecture.",
+  "texts": [
+    {
+      "name": "特に指定しない。 No particular preference.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「発酵食品学」 小泉武雄 著 講談社",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "発酵について",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "酒類について①：清酒",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "酒類について②：ワイン、ビールなど",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "調味料について：味噌、醤油",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "調味料などについて：食酢、漬物など",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "その他の発酵食品：ヨーグルト、チーズなど",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "プレゼンテーション",
+        "incharge": null
+      }
+    }
+  ]
+}

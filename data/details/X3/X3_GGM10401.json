@@ -1,0 +1,82 @@
+{
+  "name": "音楽サウンド制作特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM10401",
+  "semester": "2026年度 前期",
+  "date": "金 5",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "",
+  "teachers": [
+    {
+      "name": "伊藤 謙一郎",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.177456Z",
+  "overview": "電子音あるいは電気的処理を通して作られた音楽・音響作品の変遷を概観し、それらの延長線上にコンピュータを用いた今日の音楽の諸相が成立していることを論ずる。西洋音楽における作曲技法と戦後の電子音楽との関連、またミュージック・コンクレートなどに見られる環境音も含めた音素材の拡張と編集・変調技法などに触れ、今日のさまざまな音楽・音響コンテンツがそれらの歴史の上に立脚するものであることを示す。 This course will review the evolution of music and sound works created through electronic sounds or electrical processing, and discuss how the various aspects of today's computer-based music have been established as an extension of these works. The lecture will touch on the connection between compositional techniques in Western music and post-war electronic music, as well as the expansion of sound materials, including environmental sounds, and editing and modulation techniques seen in music concrete, etc., and show that present-day various musical and acoustic contents are based on the history of these techniques.",
+  "goal": "今日の音楽やその制作手法が、音楽史の流れに連なるものとして理解するとともに、20世紀以降のテクノロジーの発達とのつながりを踏まえて、今後の創作への多角的な視点をもてるようにする。 To understand present-day music and its production methods as linked to the flow of music history, and to gain a multifaceted perspective on future creation in light of the connection with the development of technology since the 20th century.",
+  "outcomes": "論理的な思考力、分析・評価能力",
+  "initiative": "",
+  "way": "主にpower pointのスライドを用いて講義する。必要に応じて楽譜や各種資料を配布し、作品の鑑賞も行う。ノートPCは、授業資料の確認や小課題の実施に使うので毎回持参すること。 Lectures will be given mainly using power point slides. Sheet music and other materials will be distributed as necessary, and students will be able to view the works. Students are required to bring their own laptop computer for checking the lecture materials and doing small assignments.",
+  "attention": "音楽・音響について基本的な内容を学習していることが望ましい。専門用語に関してはわかりやすい説明を心がけるが、わからないことがあれば積極的に質問したり調べたりするなどして授業内容の理解に努めてほしい。 It is desirable to have a basic understanding of music and acoustics. I will try to explain technical terms in an easy-to-understand manner, but if there is something you do not understand, please try to understand the class content by actively asking questions and doing research.",
+  "preparation": "毎回、授業スライドを事前にアップロードするので内容を確認し、その中で紹介されている視聴覚資料を鑑賞しておくこと（120分程度）。また、授業で扱った内容についてさらに詳しく情報を収集（120分程度）した上で、自らの考察や感想をまとめたレポートを提出すること。 Slide presentation will be uploaded in advance of each class, so students should review the content and view the audiovisual materials introduced in the presentation (approximately 120 minutes). In addition, students are required to gather more detailed information on the topics covered in class and submit a report summarizing their own reflections and impressions (approximately 120 minutes).",
+  "evaluation": "各回の授業レポート【70％】、授業時間内の小課題【10％】、最終レポート【20％】で評価し、60点以上を単位認定要件とする。小課題については次回授業内でフィードバックを行う。また、各回の授業レポートは必要に応じてフィードバックを行うことがある。 Evaluation will be based on class reports (70%), in-class assignments (10%), and a final report (20%), with a score of 60 or higher being required for credit. Feedback will be given on the minor assignments in the next class. Feedback on each class report may also be given as necessary.",
+  "texts": [
+    {
+      "name": "指定しない Not designated",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "指定しない Not designated",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "授業概要説明／西洋音楽史概観（19世紀まで）",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "西洋音楽史概観（20世紀以降）",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "電子音楽とミュージック・コンクレート",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "電子楽器の変遷",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "テクノロジーの発達と音楽制作手法の変遷（１）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "テクノロジーの発達と音楽制作手法の変遷（２）",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "音楽・音響作品の新たな潮流／まとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

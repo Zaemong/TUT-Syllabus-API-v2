@@ -1,0 +1,82 @@
+{
+  "name": "食品分析化学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB13701",
+  "semester": "2026年度 後期",
+  "date": "水 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "永井 利治",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.213418Z",
+  "overview": "食品成分を分析するには、多種多様の分析方法があり、その中から測定する成分に適した分析法を選択しなければならない。本講義では、食品から分析する成分を抽出する等の前処理法、食品成分を分析するための原理や装置の特徴について紹介する。特に多くの分析で多用されるクロマトグラフィー・質量分析に重点を置く。本講義は、月島食品工業(株)で食用油脂の分析に関する研究に従事した実務経験に基づき、食品分野の分析業務等に密接に関連した事柄を実例を交えて解説する実践的科目である。 To analyze food components, a wide variety of analytical methods are available, and the analytical method appropriate for the component to be measured must be selected from among them. In this lecture, the lecture will introduce pretreatment methods such as extracting the component to be analyzed from food, as well as the principles and characteristics of instruments for analyzing food components. Especially, chromatography and mass spectrometry, which are frequently used in many analyses, will be emphasized.This course is a practical program that explains topics closely related to food analysis, using case studies based on the lecturer's professional experience in analysis of edible oils at Tsukishima Foods Industry, Co., Ltd..",
+  "goal": "本講義では、食品成分を分析する際の基礎知識を習得することを目標とする。また、食品分析の原理や手法についての実学に基づく専門能力を身に付けることを目指す。 本講義では、食品分析に関する科学英語論文を読解することで、同分野における国際的な教養を身につける。さらにスライドを使用したプレゼンテーションを実施することで、コミュニケーション能力を身に付ける。 The goal of this lecture is to learn the basic knowledge of analyzing food components. The lecture also aims to provide students with practical and specialized skills in the principles and methods of food analysis. In this lecture, students will gain an understanding of scientific papers on food analysis in English, and will acquire an international background in the field. In addition, communication skills will be acquired through presentations using slides.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング、英語による授業、実務家教員による授業",
+  "way": "前半は講義形式、後半は食品分析に関する科学英語論文を読み、その内容をプレゼンテーションするゼミ形式（ノートPCを使用する）を伴うアクテイブラーニングを実施する。 なお、授業は英語で進めることがある。 The first half of the course will be lecture style, and the second half will be active learning accompanied by a seminar style (using a notebook PC) in which students will read scientific English papers on food analysis and present the contents of the papers. Classes may be conducted in English.",
+  "attention": "学部授業で「有機化学」、「生化学」、「分析化学」、「食品化学」、「栄養化学」、「食品安全論」、「食品製造学」のすべてを履修していることが受講の必須条件とする。 プレゼンテーションでは、食品分析に関する科学英語論文を読むが、それに関する基礎知識を参考書等を使ってあらかじめ理解しておくことが必要である。 授業は英語で進めることがあるので、基礎的な英語の専門用語を理解していることが必要である。 This course requires that the student has successfully passed all of the following undergraduate courses: Organic Chemistry, Biochemistry, Analytical Chemistry, Food Chemistry, Nutritional Chemistry, Food Safety, and Food Production. For the presentation, students will read scientific English papers on food analysis, and it is necessary to understand the basics of food analysis beforehand using various reference texts. The class may be conducted in English, so it is necessary for students to understand basic technical terms in English.",
+  "preparation": "学部授業の「有機化学」、「分析化学」、「食品化学」を復習しておくこと。 プレゼンテーションでは、事前にPowrerPointあるいはPDF形式で、スライド（10枚以内）を、題名、諸言、方法、結果の順で作成すること（事前にPDFファイルを教員に提出すること）。プレゼンテーションの資料は英語で作成することが必要となる場合がある。 Review the undergraduate courses “Organic Chemistry”, “Analytical Chemistry”, and “Food Chemistry”. For the presentation, prepare slides (no more than 10 slides) in PowrerPoint or PDF format in the following order: title, abstract, methods, and results (PDF file must be submitted to the teacher in advance). The presentation slides may be required to be prepared in English.",
+  "evaluation": "プレゼンテーション50％、レポート50％で評価する。 プレゼンテーションで出されたコメント、質問については、Moodle上でフィードバックする。 Evaluation will be based on 50% presentation and 50% report. Feedback on comments and questions raised in the presentation will be given during the lecture or using Moodle.",
+  "texts": [
+    {
+      "name": "随時、講義資料をMoodle上で配布。 The lecture materials will be available on Moodle as needed.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「食品分析」中澤・堀江・井部著、共立出版 「新・食品分析法」日本食品科学工学会編、光琳 「ハリス分析化学 下 原著9版」、化学同人 Daniel C. Harris,Quantitative Chemical Analysis, W H Freeman &amp; Co (Sd); 9th ed. edition (May 29 2015)",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "食品分析の種類と特徴（成分分析）",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "機器分析（液体クロマトグラフィー）",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "機器分析（質量分析）",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "機器分析（ガスクロマトグラフィー・前処理）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "プレゼンテーション１：分析関連の文献紹介とディスカッション",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "プレゼンテーション２：分析関連の文献紹介とディスカッション",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "プレゼンテーション３：分析関連の文献紹介とディスカッションとまとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

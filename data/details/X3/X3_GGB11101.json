@@ -1,0 +1,82 @@
+{
+  "name": "核酸工学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11101",
+  "semester": "2026年度 後期",
+  "date": "月 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "吉田 亘",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.193251Z",
+  "overview": "核酸は生命活動において重要な役割を果たしており、生命現象を理解するためには核酸の機能解析が必須である。一方、核酸の生体機能が明らかになるにつれて、核酸を工学的に応用する研究が行われるようになってきた。本講義では最近の工学的応用の研究事例を紹介しながら核酸工学について学ぶ。 Nucleic acids play an important role in biological processes, and functional analysis of nucleic acids is essential for understanding biological phenomena. As the biological functions of nucleic acids have been revealed, researchers applied nucleic acids to biomedical fields in diagnosis and drug development. In this course, you will learn about cutting edge nucleic acid engineering techniques and how to write novel research proposals.",
+  "goal": "最新の核酸工学に関する実学に基づく専門力を身に付けることを目指す。また、核酸工学に関する新たな研究テーマを立案するための基礎知識を身に付けることを目標とする。 The goal of this course is to acquire the ability to write a novel research proposal related to nucleic acid engineering.",
+  "outcomes": "実学に基づく専門能力、分析・評価能力、問題解決力",
+  "initiative": "",
+  "way": "主にパワーポイントを用いた講義形式で行い、適宜英語で講義を行う。本講義で学んだ内容を基に自らの立案した新規研究テーマをレポート課題とし、学生自らの主体的な学び (アクティブラーニング) を促す。講義の終わりに小レポートの作成を行う。ノートPCは使用しない。 This lecture will be given in both English and Japanese. You will be required to write a short report at the end of each lecture. In addition, you will be required to write a novel research proposal, which is based on a combination of your current research and the topics covered in this course as a final report. Laptops will not be used.",
+  "attention": "各講義を理解するために、授業の予習・復習項目に掲載した論文を読んでから講義に臨むこと。 You should read the related papers listed in the preview and review sections before attending the lecture.",
+  "preparation": "事前に関連論文を読み、理解して授業に臨むこと。 毎授業後には、配布された講義資料を用いて復習すること。 You are expected to read and understand the related papers before attending the lecture. After each lecture, you are expected to review the handout.",
+  "evaluation": "出席を前提とし、各講義後の小レポート(60%)と最終レポート(40%)で評価する。また、毎回の小レポートに対するフィードバックを次回の講義で実施する。 Attendance is required for this lecture. Evaluation will be based on a short report after each lecture (60%) and a final report (40%). Feedback on each short report will be given in the next lecture.",
+  "texts": [
+    {
+      "name": "指定しない Not specified",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "指定しない Not specified",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "概要",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "リボザイム、リボスイッチ、ナノ構造体",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "アプタマー",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "ヒトゲノム、エピゲノム",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "ゲノム編集技術、DNAマイクロアレイ、次世代シークエンサー",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "機能性核酸の診断技術への応用",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "機能性核酸の医薬品への応用",
+        "incharge": null
+      }
+    }
+  ]
+}

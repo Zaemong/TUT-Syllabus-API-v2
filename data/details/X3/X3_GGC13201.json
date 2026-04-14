@@ -1,0 +1,82 @@
+{
+  "name": "人間動作解析特論",
+  "category": "専門科目 コンピュータサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGC13201",
+  "semester": "2026年度 前期",
+  "date": "月 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０１",
+  "teachers": [
+    {
+      "name": "武 博",
+      "affiliation": "コンピュータサイエンス学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.094292Z",
+  "overview": "本講義では、人間情報学の基本から応用までを学び（分析・評価能力）、講義・演習・発表を通して実際に人間情報学、特に「人間動作解析」分野に関する研究のプロセスをを学ぶ（コミュニケーション能力、実学に基づく専門能力）ことを目的とする。 This course aims to teach the fundamentals and applications of human information science (analytical and evaluation skills) and, through lectures, exercises, and presentations, to provide hands-on learning of the research process in human information science, particularly in the field of “human motion analysis” (communication skills and practical, applied expertise). アイトラッカーなど具体的なIoTセンサーの原理と操作方法を理解し、生活のなかにある課題の発見及び自ら研究の内容と実験を設計・実施・評価できるようになることを目指す（分析・評価能力、論理的な思考力、問題解決力）。 Understand the principles and operation of specific IoT sensors such as eye trackers, and aim to discover challenges within daily life and independently design, conduct, and evaluate research content and experiments (analytical and evaluation skills, logical thinking, problem-solving skills).",
+  "goal": "本講義を通し、ヒトの身体動作、視線運動に関した実験の設計・実施法、データ解析法を習得するとともに、実際にIoTデバイスを操作し、実験を実施できることを目指す。あらゆるセンサーを利用し、自ら人間情報学に関する研究の内容と実験を設計・実施・評価できるようになることを目指す。 Through this course, students will learn how to design, conduct, and analyze experiments related to human body movements and eye movements. They will also gain hands-on experience operating IoT devices to perform experiments. The goal is for students to become capable of designing, conducting, and evaluating their own research and experiments in human informatics using various sensors.",
+  "outcomes": "実学に基づく専門能力、コミュニケーション能力、論理的な思考力、分析・評価能力、問題解決力",
+  "initiative": "AIの積極的な学びや活用、アクティブラーニング",
+  "way": "パワーポイントの講義資料を用いて講義する。講義資料はMoodleから入手できるようにする。 Lectures will be conducted using PowerPoint presentation materials. These materials will be made available for download via Moodle. 3名程度の班単位でグループを結成し（グループワーク）、AIを用いてながらディスカッションを行い（AIの積極的な学びや活用）。講義と並びに、学生が登壇するミニ発表会を実施し、学生自らの主体的な学び(アクティブラーニング)を促す。 Students will form groups of approximately three members (group work) and engage in discussions while utilizing AI (promoting active learning and application of AI). Alongside lectures, mini presentations by students will be held to encourage self-directed learning (active learning). 実験の内容と疑問に関する発表を行うため、必ずノートPCを持参すること。 Be sure to bring your laptop to present the experiment details and questions.",
+  "attention": "出席とレポートの提出は必須である。講義の内容をよく理解して実験に取り組むこと。 Attendance and report submission are mandatory. Ensure you thoroughly understand the lecture content before conducting experiments.",
+  "preparation": "事前に公開した資料を予習しておくこと，授業後にはレポートを提出すること（100分程度）。時間内に終わらなかった課題がある場合には、次の週までに終わらせておくこと。 Review the materials provided in advance. Submit a report after class (approximately 100 minutes). If any assignments are not completed within the allotted time, finish them by the following week.",
+  "evaluation": "毎回の演習の発表40%、最終レポート40%、実験への取り組み方20%を考慮して総合的に評価する。 毎回の発表に対するフィードバックを行う。 Grades will be determined based on a comprehensive evaluation considering the following: 40% for presentations in each session, 40% for the final report, and 20% for the approach to experiments. Feedback will be provided for each presentation.",
+  "texts": [
+    {
+      "name": "指定しない、講義資料をMoodleにて配布する． No specific location; lecture materials will be distributed via Moodle.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "板生 清: 人間情報学、近代科学社Digital(2021/12/24)、ISBN-10:476496029X Kiyoshi Itano: Human Informatics, Kindai Kagaku Sha Digital (December 24, 2021), ISBN-10: 476496029X",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "人間情報学とは",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "センサー、テクノロジー、人間中心の研究開発",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "研究プロジェクト例１・演習（アイトラッカー）",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "研究プロジェクト例２・演習（モーションキャプチャー）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "人間動作解析（人間行動に関するデータの処理と注意事項）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "グループプロジェクト（自由課題）",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "展望・最終発表・最終レポート Session 1: What is Human Informatics?",
+        "incharge": null
+      }
+    }
+  ]
+}

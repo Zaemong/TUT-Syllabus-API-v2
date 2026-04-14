@@ -1,0 +1,113 @@
+{
+  "name": "工学英語A[化3]",
+  "category": "専門教育科目 学部共通",
+  "type": "演習科目",
+  "code": "K001007",
+  "semester": "2026年度 前期",
+  "date": "月 1, 金 1",
+  "target": "3年,4年",
+  "credit": "1.0",
+  "room": "講義棟Ａ３０４",
+  "teachers": [
+    {
+      "name": "シルベスター，M",
+      "affiliation": "兼任講師"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:20.874157Z",
+  "overview": "This course is a practical introduction to the language you will need if you get a job as an engineer and will be required to use English at work. It presents English from a wide variety of engineering fields and situations, develops communication skills, covers essential grammar, and provides background in major engineering concepts.",
+  "goal": "The aim in this course is to aid the development of professional skills based on practical learning. Students will improve their speaking, listening and reading skills, and gain confidence in presenting ideas in English. While improving their speaking, listening and reading skills, students will be able to communicate in work situations with both foreign and domestic engineers, and will be able to present their ideas in English. [International Education, Professional skills based on practical learning, Communication Skills]",
+  "outcomes": "国際的な教養、実学に基づく専門能力、コミュニケーション能力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "Students will engage in a wide range of engineering-related speaking, listening and reading activities, and practice giving explanations of processes to fellow students. The classes will be conducted in English, and students are expected to use only English in class. A laptop computer is required.",
+  "attention": "Students should have passed the four compulsory first-year English courses: English SL I and II, and English RW I and II.",
+  "preparation": "Students will be asked to preview the vocabulary for the following unit, and review expressions and structures covered in the current lesson. Looking at the material before the lesson, and preferably giving yourself an hour of time to think about the lesson theme and topics to create a readiness to ask questions will be important, to show that you are considering the theme and topics as one whole entity. There will be regular homework.",
+  "evaluation": "Participation (35%); Assignments (35%); final presentations (30%). Students pass with a score of 60 or higher.",
+  "texts": [
+    {
+      "name": "Bonamy, David; Technical English 1 (second edition) Pearson; ISBN 978-1-292-42446-0",
+      "isbn": "9781292424460"
+    }
+  ],
+  "references": [],
+  "plans": [
+    {
+      "2": {
+        "name": "Unit 2: Parts (1)",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Unit 4: Movement",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Presentation explanation- Assignment 1",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Unit 5: Flow",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Unit 6: Materials",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Unit 7: Specifications",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Assignment 2",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Unit 9: Troubleshooting",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Unit 11: Cause and effect",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Presentations",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Presentations",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Presentations",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "Assignment 3",
+        "incharge": null
+      }
+    }
+  ]
+}

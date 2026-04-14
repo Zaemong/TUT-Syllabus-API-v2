@@ -1,0 +1,82 @@
+{
+  "name": "メディアネットワーク特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM12001",
+  "semester": "2026年度 後期",
+  "date": "月 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０３",
+  "teachers": [
+    {
+      "name": "寺澤 卓也",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.185579Z",
+  "overview": "この科目ではIoT（Internet of Things）、センサーネットワーク、位置情報の利用など、ユビキタス環境の実現に利用可能な技術を学び、人間の活動を支援するネットワークについて理解を深める。 In this course, you will learn about technologies that can be used to realize a ubiquitous environment, such as IoT (Internet of Things), sensor networks, the use of location information, etc.. This will deepen your understanding of networks that support human activities.",
+  "goal": "この科目で習得を目指すのは以下の項目である。 ・関連する論文の探し方と読み方 ・ネットワーク技術の体系的な理解 ・研究の評価手法の習得 You will acquire the following skills in this course. - How to find and read related papers - Systematic understanding of network technology - Evaluation methods for research cases",
+  "outcomes": "コミュニケーション能力、論理的な思考力、分析・評価能力",
+  "initiative": "",
+  "way": "基本的に、関連する研究論文（日本語/英語）を配布し、担当者を決めて輪講形式で授業を行う。輪講担当者は発表スライドとレジュメを用意する。 毎回の授業の終わりには、教員がまとめと補足、関連トピックの紹介を行う。ノートPCを使用するので持参すること。 また、全員、最終レポートを作成する。 オプションとして、数名のグループを結成して実際にシステム構築を行うミニプロジェクトを並行して遂行することを推奨する。対象システム、実現手法については担当教員とあらかじめ相談すること。適宜、進捗状況の報告を求める。最終回に成果発表を行うこと。遂行したメンバーには加点する。 Classes are held in a style of journal club. Research papers (Japanese/English) are selected and distributed by lecturer. One paper is assigned to one student who are in charge of the paper. Each student must prepare presentation slides and a resume for the paper, then make a presentation at a class. At the end of each class, the lecturer summarizes, supplements, and introduces related topics. Please bring your own laptop. Also, all student must write a final report. Option: You may form a group of a few students and carry out a mini-project to actually build the system, in parallel to the course. Please consult with the lecturer in advance. Members who complete the task are added the points.",
+  "attention": "学部の授業科目のうち、ネットワークに関連する次の科目（または相当する科目）の理解を前提とする。 ・メディア学部1年次「インターネットシステム入門」 ・メディア学部1年次「システム基盤技術の基礎」 ・メディア学部3年次「ソーシャルコンピューティング論」 You are recomended to complete courses bellow (or equivalents)before taking this course. - Introduction to the Internet - Introduction to the Computer Systems",
+  "preparation": "論文は全員に配布する。輪講で発表する担当者以外も、あらかじめ論文に目を通し、概略を理解しておくこと（予習120分程度）。また、その論文の理解に必要と思われる項目についても調べて学習しておくこと。担当外の回は復習として論文を読み直し理解を深めること（120分程度）発表回については、発表者は指摘された点について再度確認し、資料の修正を行うこと（復習120分程度）。 Papers will be distributed to everyone. Everyone other than those who will be presenting at the class should read the paper in advance and understand the outline (about 120 minutes of preparation). Also, you are recommended to study topics that are considered necessary for understanding the paper. During sessions other than those in charge, the presenter should reread the paper as a review to deepen understanding (approximately 120 minutes).For presentation sessions, presenters should reconfirm the points raised and revise the materials (approximately 120 minutes of review).",
+  "evaluation": "担当論文に関する理解、発表の質、資料の質（修正前/後のスライドとレジュメを提出）が50%、最終レポートが50%の比率で合計し、100点満点のうち60点に達した者に単位を与える。発表当日のスライドとレジュメを回収し、改善点を指示して（フィードバック）再提出を求める。 オプションのミニプロジェクトを遂行したグループのメンバーには、達成度に応じた加点を行う。 Those who achieved a score of 60 or more out of 100 based on a total of 50% in understanding of the paper in charge, quality of presentation, quality of materials, and 50% in final report, earn units for this course. Completed mini-project will increase points.",
+  "texts": [
+    {
+      "name": "指定しない。 論文による輪講主体のため、特に用いない。 This course does not use textbooks.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「M2M/IoT教科書」インプレス ほか、適宜紹介する。 The lecturer will introduce some related books or papers.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "イントロダクション、論文の配布と担当者の決定",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "ユビキタス技術の歴史的経緯と現在の技術との関係",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "輪講（1）担当者による発表（位置情報の利用など）",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "輪講（2）担当者による発表（産業への応用など）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "輪講（3）担当者による発表（行政での利用など）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "輪講（4）担当者による発表（介護・福祉での利用など）",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "まとめと最終レポート課題の提示",
+        "incharge": null
+      }
+    }
+  ]
+}

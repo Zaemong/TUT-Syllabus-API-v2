@@ -1,0 +1,39 @@
+{
+  "name": "Advanced Natural Language Processing",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM82401",
+  "semester": "2026年度 後期",
+  "date": "金 5",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "講義実験棟２０３",
+  "teachers": [
+    {
+      "name": "松吉 俊",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.217477Z",
+  "overview": "Natural language processing (NLP) is one of the fields of Artificial intelligence (AI), which has several applications such as machine translation, information retrieval, and automatic dialogue system. In this course, the students learn basic and important NLP technologies with deep learning.",
+  "goal": "The students learn basic and important NLP technologies with deep learning.",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "AIの積極的な学びや活用",
+  "way": "The students are required to read original papers of basic NLP technologies and generative AIs. They are expected to use laptop computers for presentation.",
+  "attention": "The students are expected to have a knowledge on the basic of probabilities, matrices and neural networks.",
+  "preparation": "The students are required to read an assigned paper for attending the class each time. It takes 120 minutes each to prepare for and go over the class.",
+  "evaluation": "Weekly assignments (75%) and final report (25%).",
+  "texts": [
+    {
+      "name": "No textbook is specified.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "- Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean: Efficient Estimation of Word Representations in Vector Space - Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding - Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, and Ming-Wei Chang: REALM: Retrieval-Augmented Language Model Pre-Training",
+      "isbn": null
+    }
+  ],
+  "plans": []
+}

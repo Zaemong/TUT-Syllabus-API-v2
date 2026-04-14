@@ -1,0 +1,124 @@
+{
+  "name": "Integrated English II[7]BS電電応化",
+  "category": "実学基礎科目 外国語",
+  "type": "演習科目",
+  "code": "L606B07",
+  "semester": "2026年度 後期",
+  "date": "月 2",
+  "target": "2年,3年,4年",
+  "credit": "1.0",
+  "room": "講義棟Ａ２０４",
+  "teachers": [
+    {
+      "name": "ブロックルバンク",
+      "affiliation": "教養学環"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.362655Z",
+  "overview": "Integrated English Iの内容をレベルアップし、より実践的な英語力の向上を目的とする。Integrated English Iと同様に、学生の興味・関心や進路に即した内容を学習することを通じて英語の4技能のスキルアップや国際的教養、ビジネス英語のさらなる修得をめざす。 In this class, we'll continue to explore MUSIC! By studying popular English‑language songs, you will build your listening, speaking, and overall English skills. The goal is to help you reach a TOEIC score of 400–500. It is recommended that you take this course in both the first and second semesters.",
+  "goal": "１．語彙力を強化する。 ２．具体的な事象に関して自らの考えを加えながら説明できる。 ３．批評的思考（クリティカルシンキング）によって、分析・評価ができる。 ４．グローバル時代に必要な国際的な教養力を身につける。",
+  "outcomes": "国際的な教養、コミュニケーション能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "Each unit takes two class sessions. We use pop songs, either from the textbook or provided by the teacher, as the starting point for all activities. After listening, you’ll check the difficult parts of the lyrics - such as sound changes (linking, omission, weakening) and grammar - and then confirm your answers. Next, you’ll read short passages related to the song and answer practice questions. Each unit also includes group discussions so you can share ideas with classmates. Quiz and assignment feedback will be given during class. Please bring your laptop computer to every class.",
+  "attention": "Be sure to have access to a good online dictionary (English-Japanese and Japanese-English) and actively participate in class. Also, download the audio from the publisher's website.",
+  "preparation": "Before each unit, read and complete the Vocabulary Preview and Grammar Point sections, which will be checked at the beginning of the lesson. Then preview the next three or four pages. If you find any words or expressions you don’t understand, look up their meaning, pronunciation, and example sentences (about 30 minutes). After class, review what we covered and go over the lesson again carefully (about 30 minutes). There will be several assignments and lists of vocabulary to learn.",
+  "evaluation": "「授業参加姿勢 (30%)」「課題点 (30％)」「到達度チェック (40％)」を総合的に評価する。合格点は60％とする。 授業参加姿勢とは、積極的な発言、質問、グループワークやペアワーク等授業内活動に取り組む姿勢や予習・復習状況確認のために実施する小テストの結果に関する評価を含む。 課題に対するフィードバックは授業時間内、あるいはMoodleなどを通じて随時行う。",
+  "texts": [
+    {
+      "name": "角山照彦 &amp; Timothy F. Hawthorne; Let’s Learn English with Pop Hits!; 成美堂; 978-4-79-197203-6; 2640円",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "None",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Orientation",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Unit Eight - You Are Not Alone [Radio Edit]",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Unit Eight - You Are Not Alone [Radio Edit]",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Unit Nine - You Gotta Be",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Unit Nine - You Gotta Be",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Unit Ten - How Crazy Are You?",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Unit Eleven - Last Christmas [Pudding Mix]",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Unit Eleven - Last Christmas [Pudding Mix]",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Unit Twelve - Desperado",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Unit Twelve - Desperado",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Unit Thirteen - All I Want For Christmas Is You",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Unit Fourteen - Sunday Morning",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Unit Fourteen - Sunday Morning",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "Final Review",
+        "incharge": null
+      }
+    }
+  ]
+}

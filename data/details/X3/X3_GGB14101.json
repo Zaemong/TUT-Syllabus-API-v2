@@ -1,0 +1,82 @@
+{
+  "name": "コロイド界面化学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB14101",
+  "semester": "2026年度 後期",
+  "date": "金 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０３",
+  "teachers": [
+    {
+      "name": "柴田 雅史",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.234751Z",
+  "overview": "本授業は、コロイド界面化学の最新技術を学び、それらが化粧品製品の処方設計にどのように応用されているのかを、講義および実習（技術調査）を通して学ぶことを目的とする。分野はゲルである。 授業は講義と実習に分かれる。講義では、水系および油系ゲルを中心に、コロイド界面化学の基礎から最新技術までを講義形式で学ぶ。実習では、化粧品製品および処方を題材に、どのようなゲルおよび界面化学技術が用いられているのかを解析し、レポートの作成を行う。 This course introduces modern colloid and interface chemistry and its application to cosmetic formulation design, with a focus on gels. It consists of lectures and practical training. The lectures cover the fundamentals and recent advances in aqueous and oil-based gels. In the practical sessions, students analyze cosmetic products and formulations to identify applied gel and interfacial technologies and prepare technical reports.",
+  "goal": "本授業では、講義部分で化粧品・食品。医薬品分野についての実学であるコロイド界面化学に基づく専門力を身につけることを目指す。実習では、界面化学の見地から各成分が配合される目的と、それが統合された処方全体の設計思想と性能を推察することで、「論理的思考力」および「分析・評価力」を身につけることを目標とする。 This course aims to develop practical professional competence in colloid and interfacial chemistry applied to cosmetics, foods, and pharmaceuticals. Through laboratory work, students will acquire \"logical thinking skills\" and \"analytical and evaluation abilities\" by examining the purpose of each ingredient and the overall formulation design and performance from an interfacial chemistry perspective.",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "",
+  "way": "授業前半では、化粧品、食品、医薬品製剤において活用されている水系および油系ゲルのゲル化機構およびゲルの物性、そして各産業用途での特長を講義形式で解説する。後半は、実習として生成AIおよびAI検索システムを活用して、各種ゲルの産業分野での活用の実際を調査しレポートを作成する。 授業終了後、レポートを提出し、次回の授業でフィードバックをおこなう。 授業にはノートPCを持参すること。 In the first half of the course, the gelation mechanisms, physical properties, and industrial features of aqueous and oil-based gels used in cosmetics, foods, and pharmaceuticals are explained in lectures. In the second half, students use generative AI and AI-based search systems to investigate industrial applications of various gels and prepare a report. After the class, students submit the report, and feedback is provided in the following session. Students are required to bring a laptop computer to class.",
+  "attention": "本授業では主に化粧品製品を演習の題材として扱うが、学ぶコロイド界面化学技術は食品加工や医薬品製剤技術にも応用されている。そのため、化粧品専攻でない学生も履修対象とし、講義および発表方法に工夫を凝らし、化粧品分野の知識がなくても履修に支障がないよう配慮している。 Although this course uses cosmetic products as case studies, the colloid and interface chemistry techniques covered are also applicable to food processing and pharmaceutical formulations. Therefore, students who are not specializing in cosmetics are also welcome to take the course. The lectures and presentations are designed to ensure that students without prior knowledge of the cosmetics field can follow the course without difficulty.",
+  "preparation": "講義で使用する説明資料は、事前に授業サイトにアップロードされるため、授業に参加する前に必ず熟読する。授業後にはその講義内容の再確認とレポートの完成をする（予習120分、復習120分程度）。 The instructional materials （text book）used in the lectures will be uploaded to the course website in advance. Students are required to read them carefully before attending each class. After the class, students should review the lecture content and complete the assigned reports (approximately 120 minutes for preparation and 120 minutes for review).",
+  "evaluation": "講義部分でのクイズや意見発表を20％、レポートを80%で評価をおこなう。授業の最終回でフィードバックをおこなう。 Quizzes and class discussions: 20%、Final report: 80% Feedback will be provided in the final session of the course.",
+  "texts": [
+    {
+      "name": "おもしろサイエンス リップ化粧品の科学 日刊工業新聞社",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "化粧品成分検定公式テキスト 実業之日本社 日本化粧品工業連合会 http://www.jcia.org/n/ Cosmetic-Info.jp http://www.cosmetic-info.jp/ その他、適宜必要書類を授業サイトからダウンロードする。",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "水性ゲルの講義と技術調査",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "αゲルの講義と技術調査",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "オルガノゲルの講義",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "オルガノゲルの講義と技術調査",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "ワックスゲルの講義と技術調査",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "最新のゲル化技術の講義",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "レポートのための調査と作成",
+        "incharge": null
+      }
+    }
+  ]
+}

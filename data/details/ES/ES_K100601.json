@@ -1,0 +1,124 @@
+{
+  "name": "フーリエ解析",
+  "category": "専門教育科目 専門基礎",
+  "type": "講義科目",
+  "code": "K100601",
+  "semester": "2026年度 前期",
+  "date": "火 1",
+  "target": "2年,3年,4年",
+  "credit": "2.0",
+  "room": "講義実験棟４０２",
+  "teachers": [
+    {
+      "name": "余 錦華",
+      "affiliation": "機械工学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:20.463810Z",
+  "overview": "CTスキャンにより，体内情報がビジュアル的にわかり，病気が容易に診断できるようになり，いまでは欠かせない技術となっている。それを実現するために，放射線で人体を走査し，人体の内部画像を構築する技術は必要であり，それを支えるのはフーリエ変換である。 フーリエ変換は，時間に関する波形ではわからないその周波数特徴がはっきり見えるための数学的手法であり，応用解析手法として，機械工学や電気・電子工学における信号処理やシステムの解析に欠かせないものとなっている。 本講義は，工学応用の立場からその変換の考え方を解説し，複素正弦波とオイラの公式，フーリエ級数，フーリエ変換，高速フーリエ変換（FFT），周波数特性などを扱い，さらに，それの工学分野の応用例を紹介する。 この講義を履修することにより，信号処理の基本を理解し，周波数特性を調べる能力が身につく。 なお，本講義は英語テキストを使うが，テキストは高校レベルの優しい英語で書かれたものであり，TOEIC受験にも役立つ。",
+  "goal": "本授業科目は、以下を到達目標とする： １）フーリエ変換の基本概念を理解する ２）フーリエ変換と高速フーリエ変換のやり方を理解する ３）MATLABを使って信号をフーリエ変換することができる ４）フーリエ変換応用の仕方について理解できる ５）フーリエ変換に関する専門英語の基本単語をマスターする",
+  "outcomes": "国際的な教養、実学に基づく専門能力、コミュニケーション能力、論理的な思考力、分析・評価能力、問題解決力",
+  "initiative": "AIの積極的な学びや活用、アクティブラーニング",
+  "way": "教科書に沿って講義を進めるが，適宜に演習問題を交えて理解を深める。グループディスカッションとプレゼンなどの能動的学習手法も取り入れる。また，授業形態は板書とマルチメディア資料やPCによるプレゼンとなる。なお，MATLABというソフト（本学がアカデミック版を持ち，学生が自由に使える）を使って演習問題を解くため，ノートPC必携である。",
+  "attention": "遅刻せずに授業に出席すること。また，授業の内容について，必ず教材を読み，予習・復習を十分に行うこと。授業にMATLABを用いて演習を行うので，PCは必携である。なお，英語のビデオを見て理解するので，自宅での学習は必須である。",
+  "preparation": "フーリエ級数を復習しておくことが望ましい。また，授業の予習・復習をすることが必要である（予習復習時間の目途：６０分程度）。",
+  "evaluation": "数回のレポート（40％）と段階テスト（50％）に加えて，授業態度（10％）も加味して評価を行う。段階テストは筆記用具，電卓とものさしだけ持込可である。",
+  "texts": [
+    {
+      "name": "英語で学ぶフーリエ解析とその応用（Introduction to Fourier Analysis and Its Applications），佘・宮本・川田 共著，コロナ社，2023年4月，ISBN978-4-339-06127-7, 2860円（税込み）。",
+      "isbn": "9784339061277"
+    }
+  ],
+  "references": [
+    {
+      "name": "英語と日本語の参考書は多数あるので，自らの能力に適した参考書を自ら探し出すこと。",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Orientation of this course",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Overview of Fourier Analysis",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Mathematical Fundamentals for Fourier Analysis",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Fourier Series",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Fourier Transform",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Useful properties and theorems",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Summarization of 1-6",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Signal Sampling and Reconstruction",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Discrete Fourier Transform and Fast Fourier Transform",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "MATLAB and Fourier transforms",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Applications to Engineering Problems",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Application to Mathematical Problems in Engineering",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Multi-Dimensional Fourier Transform",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "Summarization of 8-13",
+        "incharge": null
+      }
+    }
+  ]
+}

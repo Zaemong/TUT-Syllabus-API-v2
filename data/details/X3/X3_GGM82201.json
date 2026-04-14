@@ -1,0 +1,82 @@
+{
+  "name": "Japanese Culture and Its Impact on Contemporary Content",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM82201",
+  "semester": "2026年度 後期",
+  "date": "木 3",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "講義実験棟２０７",
+  "teachers": [
+    {
+      "name": "太田 高志",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.246462Z",
+  "overview": "Japanese contemporary content, including manga, anime, and video games, is widely recognized for its distinctive character and enjoys global popularity. Many of these works exhibit influences from traditional Japanese culture, which contribute to their unique aesthetic sensibilities and modes of expression. These characteristics can be understood, in part, as the result of historical, social, and cultural conditions that shaped distinctive concepts and ways of perceiving the world in Japan. In this course, we adopt multiple perspectives to examine how elements of traditional Japanese culture have influenced contemporary creative works. By analyzing these influences across various contexts, the course seeks to explore the roots of the perceived uniqueness of Japanese modern content and to identify conceptual frameworks and insights that may be applied to the creation of new forms of contemporary content.",
+  "goal": "This course does not emphasize the memorization of factual knowledge. Instead, it aims to cultivate students’ ability to analyze and critically reflect on the distinctive characteristics of contemporary content design. Through the course, students are expected to develop the following insights and competencies: 1. Develop an understanding of traditional Japanese arts and aesthetics, such as Kabuki, Noh, and Ukiyo-e, as well as key concepts including wabi-sabi. 2. Analyze how these traditional elements have influenced contemporary forms of content, including manga, anime, and aesthetic concepts such as kawaii. 3. Identify and examine the underlying ideas and modes of thinking that shape Japanese approaches to content creation. By achieving these learning outcomes, students will acquire the ability to critically analyze and evaluate contemporary Japanese content, and to generate original ideas for new forms of content informed by these perspectives.",
+  "outcomes": "国際的な教養、分析・評価能力",
+  "initiative": "AIの積極的な学びや活用、英語による授業",
+  "way": "The course is conducted in a seminar format, with the analysis and discussion of selected case studies forming the core of the class. Each week, students are assigned a research theme and are required to prepare and deliver a presentation based on that theme. Following each presentation, a group discussion is held to critically examine the topic and related issues. In addition, to examine the underlying ideas and aesthetic principles of Japanese culture, assignments involving image and video generation using generative AI are incorporated into the course. Through these practical exercises, students are encouraged to explore how abstract cultural concepts can be translated into contemporary visual expressions. Students are expected to bring their own laptop computers for in-class presentations and related activities. Students are required to bring a personal computer to present their assignments.",
+  "attention": "This course is part of the English-taught program and is conducted entirely in English. Students are expected to actively participate in discussions and presentations in English.",
+  "preparation": "Each week, students are expected to conduct preliminary research on related topics as preparation for the class (approximately 60 minutes). After each class, they are expected to carry out additional research on the topics covered and work on the assigned tasks (approximately 180 minutes).",
+  "evaluation": "Evaluation will be based on the quantity (30%) and quality (30%) of your contributions to in-class discussions and comments, as well as the evaluation of two assignments (40%). A score of 60% or higher is required to pass the course. Feedback on assignments will be provided in class following the student presentations.",
+  "texts": [
+    {
+      "name": "no textbook is specified.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "日本文化の核心（in Japanese)、松岡正剛、講談社現代新書",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Overview of Japanese culture",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Styles and Format",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Kawaii and Wabi-Sabi",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Yaoyorozu no Kamigami",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Simplicity as Empty",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Concepts in Japanese Culture",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Presentation of Final Assignment",
+        "incharge": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "ソーシャルデザイン特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM11501",
+  "semester": "2026年度 前期",
+  "date": "月 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０４",
+  "teachers": [
+    {
+      "name": "飯沼 瑞穂",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.253096Z",
+  "overview": "In this course, we will explore how to address various societal challenges using design from a multifaceted perspective. Social design refers to 1) the design of products that contribute to the realization of sustainable development and society, and 2) the design of systems, processes, or products in which human development and social capital improvement can coexist with profitability. Specific areas of social design include communication, education, welfare, healthcare, international development, community, and urban planning, among others. Furthermore, methods of problem-solving utilizing social networks that connect individuals and society are also key areas of focus. 本授業では、今日社会が抱える様々な課題をデザインを用いて解決する方法について多角的な視点から考察していく。ソーシャル・デザインに焦点を当て議論を進める。ソーシャルデザインとは１）持続可能な開発や社会の実現に役立つプロダクトのデザイン ２）人間開発や社会関係資本の向上と収益性が共存し得る仕組み、過程やプロダクトのデザインである。 ソーシャルデザインの具体的な対象分野としては、コミュニケーション、教育、福祉、医療、国際開発、地域、都市計画など多岐にわたる。さらに、個人と社会をつなぐソーシャルネットワークを活用した課題解決の方法も対象となる。",
+  "goal": "The goal of this course is to acquire methods for solving social issues and to develop the ability to plan solutions that are relevant to society. 本授業の目標は社会課題の解決に向けた手法を体得し、社会に通じる解決方法の企画ができるようになることである。更に、英文の学術論文を読みこなすことができるようになる。",
+  "outcomes": "分析・評価能力、問題解決力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "Discussion and lecture, group discussion presentation Note PC required in class 講義と輪読ディスカション、トピック毎のディスカッションと発表 授業内でのノートPC活用 有り",
+  "attention": "Please participate in every class, group discussion is essential so please finish all the readings before attending the class 毎回の授業参加が重要である。グループワークを行うため、必ず課題は事前に済ますこと。",
+  "preparation": "Requires approximately 240 minutes of material preparation, reading and summary or preparation for the presentation per week 発表資料の作成、論文、参考文献の予習。事前準備、輪読資料の要約と最終発表のPPT作成に240分程の準備時間を要する",
+  "evaluation": "Discussion, participation and reading summaries and presentation 60% Final presentation 40 % Oral feedback will be given in class 毎回の授業のディスカション参加、輪読資料の要約と発表 ６０％ 最終企画発表 40％ 授業内に口頭でフィードバックを行う",
+  "texts": [
+    {
+      "name": "Victor Papanek (1985) Design for the Real world Victor Margolin(1996) Idea of Design, other materials will be introduced in class",
+      "isbn": null
+    }
+  ],
+  "references": [],
+  "plans": [
+    {
+      "1": {
+        "name": "イントロダクション",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "ソーシャルデザイン：歴史的背景",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "デザイン思考とソーシャルデザイン",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "国際開発とソーシャルデザイン",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "コミュニティデザイン、ソーシャルキャピタル",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "メディア、AIとソーシャルデザイン",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "企画発表",
+        "incharge": null
+      }
+    }
+  ]
+}

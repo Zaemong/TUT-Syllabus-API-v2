@@ -1,0 +1,82 @@
+{
+  "name": "ミトコンドリア学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB14301",
+  "semester": "2026年度 後期",
+  "date": "水 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ４０２",
+  "teachers": [
+    {
+      "name": "岡本 瑞穂",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.189368Z",
+  "overview": "ミトコンドリアは細胞内のエネルギー産生やアポトーシスを司る重要な細胞内小器官である。本講義では、「生化学」、「分子生物学」の知識をベースに、エネルギー産生の基本的な流れやアポトーシス、ミトコンドリアの役割、制御、進化の過程、測定手法の原理について学ぶ。さらに文献調査では、ミトコンドリアを中心とした最新のトピックスについても議論し、細胞内小器官に関する理解を深める。 Mitochondria are essential organelles responsible for cellular energy production and apoptosis. This course builds upon fundamental knowledge of Biochemistry and Molecular Biology to explore the basic mechanisms of energy production, apoptosis, mitochondrial functions, regulation, evolution, and measurement techniques. Additionally, through literature review and discussion, students will engage with recent research topics centered on mitochondria, deepening their understanding of intracellular organelles.",
+  "goal": "本講義では、ミトコンドリアについての「実学に基づく専門能力」を身につけることを目指す。また、英語論文や英語のミトコンドリア解説動画を紹介し、「国際的な教養」を身につける。そして、ミトコンドリアの測定手法の原理について学ぶことで、「論理的な思考力の向上」を図る。さらに、最新のミトコンドリア研究の課題について議論し「問題解決力」を培う。 This course aims to develop specialized expertise in mitochondria based on applied biological sciences. Students will be introduced to English research papers and explanatory videos to enhance their global literacy and understanding of international scientific literature. By learning the principles of mitochondrial measurement techniques, students will improve their logical thinking and analytical skills. Furthermore, discussions on the latest challenges in mitochondrial research will foster problem-solving abilities, enabling students to address key scientific issues.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、論理的な思考力、問題解決力",
+  "initiative": "",
+  "way": "パワーポイントの資料を中心に、講義を行う。また、講義中に動画視聴などを行うため、ノートPCは必携 The lecture will be conducted primarily using PowerPoint presentations. Additionally, as video viewing and other activities will be included during the lecture, a laptop is required.",
+  "attention": "分子生物学、生化学を理解して本講義に臨むこと Students are expected to have a fundamental understanding of molecular biology and biochemistry before attending this course.",
+  "preparation": "各授業は、分子生物学、生化学の復習から行われる。したがって、各授業前に提示した資料を良く読み、わからない部分を理解しておくこと。（予習60 分） Each lecture will begin with a review of molecular biology and biochemistry. Therefore, students are required to thoroughly read the provided materials before each class and clarify any unclear points in advance. (Preparation time: 60 minutes)",
+  "evaluation": "講義出席を前提とし、講義中の質疑応答・課題（40％）、全講義終了後の提出課題（60％）で評価する。合計点を100点とし、60点以上で単位認定とする。各講義終了後にアンケートを行い、学習状況に対するフィードバックを行う。 Attendance is mandatory. Evaluation consists of class participation and assignments (40%) and a final assignment (60%). A total score of 100 points, with 60 or higher required to pass. Surveys will provide feedback on learning progress.",
+  "texts": [
+    {
+      "name": "無し None",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "細胞の分子生物学 第6版 Bruce Alberts, Alexander Johnson, Julian Lewis, David Morgan, Martin Raff, Keith Roberts, Peter Walter 著ほか ニュートンプレス 新ミトコンドリア学 内海耕慥、井上正康 著 共立出版 Essential細胞生物学原書第5版 中村桂子/松原謙一/榊佳之/水島昇 監修、南江堂",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "ミトコンドリアの歴史",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "ミトコンドリア電子伝達系と酸化的リン酸化",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "ミトコンドリアとアポトーシス",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "ミトコンドリアDNAの複製・転写・翻訳・分解",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "ミトコンドリア活性酸素とミトコンドリア病",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "ミトコンドリア機能の測定",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "ミトコンドリアと様々な細胞内小器官の相互作用",
+        "incharge": null
+      }
+    }
+  ]
+}

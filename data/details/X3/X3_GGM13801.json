@@ -1,0 +1,34 @@
+{
+  "name": "Webアプリケーション技術特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM13801",
+  "semester": "2026年度 後期",
+  "date": "金 4",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "講義実験棟２０３",
+  "teachers": [
+    {
+      "name": "戀津 魁",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.090174Z",
+  "overview": "Webアプリケーション技術特論では、Webアプリケーションの利用及び実装にあたって必要な各種技術について、ハードウェアやネットワーク通信、OS、ソフトウェアと広い範囲にわたって基礎的な内容を解説する。特にデータベース技術とそれに応じたデータ形式について、主流のものだけでなく幅広く触れデータ永続化についての汎用的な知見を伝える。また、HTML5及びCSS3、javascriptとそれらを利用したライブラリを用いて簡易なWebアプリケーションの実装を行い、それを通じてWebアプリケーション技術全般についての幅広い知識の習得を目指す。 In this course, students will gain foundational knowledge across a wide range of technologies essential for both using and implementing Web applications, including hardware, network communications, operating systems, and software. It provides broad exposure to database technologies and various data formats -not only the most mainstream ones- to convey general insights into data persistence. Additionally, students will learn to implement a simple Web application using HTML5, CSS3, JavaScript, and related libraries. Through this hands-on approach, the course aims to foster a comprehensive understanding of Web application technologies.",
+  "goal": "サーバーマシンへのLinuxのインストール及びネットワーク等の各種設定を行い、コンテンツの作成と配置をしてWebアプリケーションの公開を行えるようになることを目的とする。公開するWebアプリケーションについてはデータ形式及びデータ入出力経路についての簡易な設計も含め行えるようにする。 By installing Linux on a server, configuring networks and other settings, and creating and deploying content, students will learn to publish a functioning Web application. This includes simple design of data formats and data input/output pathways for the published application.",
+  "outcomes": "国際的な教養、実学に基づく専門能力",
+  "initiative": "",
+  "way": "座学と演習を交え行う。技術概要について述べ、都度それを実践する形式をとる。学内に教員の用意したLinuxサーバへのログイン及び操作を行うため、ノートPCを必携とする。最終課題として班単位で簡易なWebアプリケーションの構築をするグループワークを行い、登壇しての相互発表会を通じて学生自らの主体的な学び（アクティブラーニング）を促す。 Classes will be conducted through a combination of lectures and hands-on exercises. After each technical concept is introduced, students will immediately apply it in practice. Because students will log in to and operate a Linux server prepared by the instructor, they must bring their own laptop. As a final project, small groups will work on building a simple Web application, culminating in in-class presentations where each group showcases its work. This group presentation fosters active learning by encouraging students to take the initiative in their own studies.",
+  "attention": "最終課題では簡易なWebアプリケーション構築を行うが、班単位での作業を想定するため履修上必須の技術は指定しない。プログラム、デザイン、データ設計など必要技術は多岐に渡るが、未経験からでも調査と並行して達成できる難易度を想定する。 While the final project involves constructing a simple Web application in groups, there are no strict technical prerequisites for enrollment. The project may include a wide range of skills -programming, design, data modeling, and more- but is designed at a level that can be achieved even by those with no prior experience, provided they conduct their own research alongside the coursework.",
+  "preparation": "予習として各回のテーマの技術について基本的な知識を調べておくこと（40分程度） 授業の性質上多くの技術情報を紹介するが、主眼ではない場合単語の紹介に留め詳細な解説を行わないことも想定される。これらについて授業後の復習時間で各自調査し、授業資料の理解を補完しておくこと。（240分程度） Given the nature of this class, numerous technical topics will be introduced, and if a topic is not the primary focus, it may only be briefly mentioned without in-depth explanation. Students are expected to compensate for these gaps by reviewing each class’s material on their own time, investigating unfamiliar terms or concepts as needed.",
+  "evaluation": "授業内の演習時間において都度理解度の確認を行う。また、最終課題のグループワークで構築するWebアプリを成果として成績判定する。試験形式など技術の完全な習得は目的とせず、授業資料並びにインターネット等で調査を行いながらの構築ができるようになることを確認する。 理解度確認を20%、最終課題を80%で評価する。 最終課題は発表会を行い、そこでフィードバックを行う。 The final grade will be determined primarily by the Web application produced in the group project. Students should demonstrate the ability to build applications by consulting both the class materials and external sources such as the internet.",
+  "texts": [
+    {
+      "name": "指定しない Not specified",
+      "isbn": null
+    }
+  ],
+  "references": [],
+  "plans": []
+}

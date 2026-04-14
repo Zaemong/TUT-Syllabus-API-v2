@@ -1,0 +1,39 @@
+{
+  "name": "リベラルアーツ特論[Aspects of Western Arts]",
+  "category": "実学基礎科目 総合",
+  "type": "講義科目",
+  "code": "L10108",
+  "semester": "2026年度 前期",
+  "date": "火 4",
+  "target": "5年",
+  "credit": "2.0",
+  "room": "講義実験棟３０３",
+  "teachers": [
+    {
+      "name": "キャンベル，Ａ",
+      "affiliation": "教養学環"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.416277Z",
+  "overview": "This course introduces key ideas in Western arts through painting, music, and film. Across 14 lessons, students learn how artists use images, sound, and stories to express emotions, meanings, and cultural values. Classes on painting focus on themes, symbols, colour, and simple versus complex styles. Music classes cover operatic voices, African American traditions such as jazz and hip-hop, and the development of rock guitar. Film classes explore how audiences understand movies, the history of Westerns, and different styles of comedy. The course is designed to be enjoyable, accessible, and confidence-building. 本授業は、絵画・音楽・映画を通して西洋芸術の基本的な考え方を学ぶ。全14回の授業で、芸術家がイメージ、音、物語を用いて感情や意味、文化的価値をどのように表現するかを理解する。絵画ではテーマ、象徴、色彩、単純な様式と複雑な様式の違いを扱う。音楽ではオペラの声楽、ジャズやヒップホップなどのアフリカ系アメリカ人音楽、ロック・ギターの発展を学ぶ。映画では観客の理解、西部劇の歴史、コメディの様式を取り上げる。本授業は、楽しく親しみやすく学び、自信を育てることを目的とする。",
+  "goal": "This course aims to help students understand the main traditions of Western arts and to enjoy learning about them. Students will learn how to look at paintings more carefully, how to listen to music with more awareness, and how to recognise different styles in movies. The course also aims to build basic knowledge and skills for interpreting meaning, comparing cultures, and discussing artistic ideas in English. By the end, students should feel more confident exploring art and thinking about how it expresses human experience. 本授業の目的は、西洋芸術の主要な伝統を理解し、それを楽しみながら学ぶことである。学生は、絵画をより注意深く鑑賞する方法、音楽を意識的に聴く姿勢、映画におけるさまざまな様式を見分ける力を身につける。 また、意味の解釈、文化の比較、芸術的な考えについて英語で議論するための基礎的な知識と技能の習得も目指す。授業終了時には、芸術が人間の経験をどのように表現しているのかについて、自信を持って考えられるようになることが期待される。",
+  "outcomes": "国際的な教養、論理的な思考力、分析・評価能力、問題解決力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "This is a lecture-based course. From time to time, however, students will be asked to read texts, do quizzes, watch videos, write comments, and work actively in groups or pairs. There will be opportunities to review content each week. Students will be expected to use a personal computer to access the online materials of this course. 本授業は講義形式を基本とするが、適宜、テキストの読解、小テスト、動画視聴、コメント作成、ペアワークやグループワークなどの活動を行う。毎週、学習内容を振り返る機会が設けられる。 なお、本授業のオンライン教材を利用するため、ノートPCを持参すること。",
+  "attention": "・The maximum number of students allowed to take this course is 10. ・Prospective students should note that all of the lectures will be delivered in English. ・Students are expected to attend and be on time for each lecture. ・Students should feel free to ask questions, either directly to the teacher in class or via email afterwards. • 本授業の履修者数の上限は10名とする。 • 授業はすべて英語で行われるため、その点を理解したうえで履修すること。 • 各回の授業には必ず出席し、時間厳守とする。 • 授業中に教員へ直接質問するほか、授業後にメールで質問してもよい。",
+  "preparation": "Preparation: Students will be asked to prepare for the following class by reading texts, watching videos and learning new vocabulary. Review: Students will be asked to review the learning materials each week. There will sometimes be quizzes. The total homework time will be up to 60 minutes per week. 予習： 次回の授業に向けて、指定されたテキストの読解、動画の視聴、新出語彙の学習を行うこと。 復習： 毎週、学習教材の復習を行う。場合によっては小テストを実施する。 宿題の合計時間は1週間あたり最大60分となります。",
+  "evaluation": "Grading will be as follows: ・40% for review exercises, assignments and Quizlet vocabulary activity ・60% for the achievment checks and final presentation Credits will be awarded for a score of 60 or more out of 100 points. Feedback on assignments will be provided during the class. 成績評価は以下の割合で行う。 • 復習課題、レポート、Quizletによる語彙学習活動：40％ • 到達度チェックおよび最終発表：60％ 総合評価が100点満点中60点以上の場合、単位を認定する。 課題に対するフィードバックは授業中に行う。",
+  "texts": [
+    {
+      "name": "Not specified. 指定しない。",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "All materials needed for this class will be available online. 本授業に必要な教材はすべてオンラインで提供される。",
+      "isbn": null
+    }
+  ],
+  "plans": []
+}

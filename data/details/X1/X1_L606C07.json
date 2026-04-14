@@ -1,0 +1,124 @@
+{
+  "name": "Integrated English II[7]CS機械",
+  "category": "実学基礎科目 外国語",
+  "type": "演習科目",
+  "code": "L606C07",
+  "semester": "2026年度 後期",
+  "date": "木 2",
+  "target": "2年,3年,4年",
+  "credit": "1.0",
+  "room": "講義実験棟３０１",
+  "teachers": [
+    {
+      "name": "青木 美奈",
+      "affiliation": "兼任講師"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.458344Z",
+  "overview": "Integrated English Iの内容をレベルアップし、より実践的な英語力の向上を目的とする。Integrated English Iと同様に、学生の興味・関心や進路に即した内容を学習することを通じて英語の4技能のスキルアップや国際的教養、ビジネス英語のさらなる修得をめざす。 この授業のテーマはMUSICで、英語圏のポップソングを教材に、英語力を総合的に磨き、TOEIC 400-500レベルの到達を目指す。なお、この科目は前・後期続けて履修することをすすめる。",
+  "goal": "１．語彙力を強化する。 ２．具体的な事象に関して自らの考えを加えながら説明できる。 ３．批評的思考（クリティカルシンキング）によって、分析・評価ができる。 ４．グローバル時代に必要な国際的な教養力を身につける。",
+  "outcomes": "国際的な教養、コミュニケーション能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "2回の授業で1ユニットを目安に進めていく。各ユニットで取り上げられているポップソングを使った問題では、歌詞を聞き取った後、音声変化（連結・脱落・弱化）や文法事項などを確認しながら聞き取りにくい点を明らかにし、答え合わせをする。併せて、部分的に日本語の歌詞を完成させる。また、歌詞に関連した内容のエッセイを読み、練習問題を解いて答えを確認する。各ユニットの内容に関するグループディスカッションも行う。小テストや課題へのフィードバックは授業中に随時行う。ノートPCは指示があるときのみ使用する。",
+  "attention": "必ず辞書（英和・和英）を持参し、積極的に授業に参加すること。また、出版社のホームページから音声をダウンロードすること。",
+  "preparation": "予習課題として、Warm-upの問題を解き、提出する。授業前にその他の問題を解き、意味を答えられない語や表現がある場合は、定義・発音・用例を確認しておくこと（30分程度）。授業後は各回の内容を見直し、しっかりと復習しておくこと（30分程度）。また、小テストの前には、配布資料をよく確認しておくこと。",
+  "evaluation": "「授業参加姿勢 (30%)」「課題点 (30％)」「到達度チェック (40％)」を総合的に評価する。合格点は60％とする。 授業参加姿勢とは、積極的な発言、質問、グループワークやペアワーク等授業内活動に取り組む姿勢や予習・復習状況確認のために実施する小テストの結果に関する評価を含む。 課題に対するフィードバックは授業時間内、あるいはMoodleなどを通じて随時行う。",
+  "texts": [
+    {
+      "name": "角山照彦＆Simon Capper著; English with Hit Songs, New Edition; Seibido; ISBN9784791930869; 2100円",
+      "isbn": "9784791930869"
+    }
+  ],
+  "references": [
+    {
+      "name": "必要に応じて授業中に紹介していく。",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "ガイダンス",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Unit 8 The stranger (1)",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Unit 8 The stranger (2) &amp; 小テスト①",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Unit 9 Hey now (1)",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Unit 9 Hey now (2) &amp; 小テスト②",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Unit 10 Every time I close my eyes (1)",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Unit 10 Every time I close my eyes (2) &amp; 小テスト③",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "到達度チェック(1) および Unit 11 Kiss of life (1)",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Unit 11 Kiss of life (2) &amp; 小テスト④",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Unit 12 All I want for Christmas is you (1)",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Unit 12 All I want for Christmas is you (2) &amp; 小テスト⑤",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Unit 13 Livin' la vida loca (1)",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Unit 13 Livin' la vida loca (2) &amp; 小テスト⑥",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "到達度チェック(2) および全体のまとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

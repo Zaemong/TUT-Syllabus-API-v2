@@ -1,0 +1,82 @@
+{
+  "name": "コンピュータビジュアリゼーション特論",
+  "category": "専門科目 メディアサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGM13701",
+  "semester": "2026年度 前期",
+  "date": "火 3",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "竹島 由里子",
+      "affiliation": "メディア学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.240875Z",
+  "overview": "ビジュアリゼーション（可視化）は、数値データを図形に変換して視覚的に解析を可能にする技術です。大規模データや複雑な構造を持つデータから意味のある情報を抽出することは難しいですが、可視化により直感的に隠れた情報を発見することができます。ただし、可視化方法によって得られる情報量が異なるため、適切な可視化技法とパラメタ設定が必要です。 本授業では、科学技術データと情報可視化技法を体系的に学び、具体的な事例を通じて目的に応じた可視化技法を使いこなせる力を養います。 Computer visualization is a technique that enables visual analysis by converting numerical data into graphical representations. Extracting meaningful information from large or complex data can be challenging, but visualization allows for the intuitive discovery of hidden insights. However, the amount of information gained depends on how the data is visualized, so effectively selecting the proper technique and configuring parameters is essential. This course aims to study techniques for scientific visualization and information visualization systematically. Students will develop the ability to apply appropriate visualization methods based on the objectives of specific examples.",
+  "goal": "各可視化技法の利点や欠点、特性などを習得するとともに、具体的な事例での利用や可視化結果の理解が可能になるための知識を身につける。 Students will also learn the advantages, disadvantages, and characteristics of various visualization techniques. Additionally, they will acquire the knowledge needed to apply these techniques to specific cases and to interpret visualization results effectively.",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力",
+  "initiative": "",
+  "way": "【授業形態：講義】ノートPC必携 スライドを用いて講義を行う。各可視化技法について説明するとともに、その可視化技法を用いた具体的な事例についても紹介していく。また、可視化結果から得られる情報について考察し、可視化方法の問題点や改善点などについての議論を行う。 また、情報可視化ソフトウェアTableauを用いた、演習を適宜行うことで、実データの可視化作業を体験する。 【Class Format: Lecture】 A laptop is required. Lectures will be conducted using slides. Each visualization technique will be explained, accompanied by concrete examples demonstrating its application. In addition, students will analyze the information obtained from visualization results and engage in discussions about the challenges and potential improvements of the visualization methods. Practical exercises using the data visualization software Tableau will also be conducted as needed, allowing students to experience hands-on visualization of real-world data.",
+  "attention": "講義を「聴く」だけでなく、積極的に課題を行うようにすること。 Students are encouraged not only to listen to the lectures but also to actively engage in completing the assigned tasks.",
+  "preparation": "学習した可視化技法に対して、どのようなデータで利用可能か、どのような工夫が可能かなどについて復習すること。 授業前に、その回で学ぶ内容の把握をすること（120分程度）。授業後に、キーワードの理解、演習内容の復習、レポート課題などを実施すること（120分程度）。 Students are expected to review the visualization techniques learned in class, including understanding what types of data each technique can be applied to and exploring possible innovations or improvements. Before each class session, students should preview the topics to be covered (approximately 120 minutes). After class, students are required to deepen their understanding by reviewing key concepts, revisiting exercise content, and completing report assignments or other tasks (approximately 120 minutes).",
+  "evaluation": "各回で示す課題および最終課題を4:6の割合で換算し、全体の6割以上の成績で合格とする。なお、各回の課題は、次回の授業内でフィードバックを行う。 Assignments given in each session and the final project will be weighted at a ratio of 4:6. A total score of 60% or higher is required to pass the course. Feedback on the assignments from each session will be provided during the following class.",
+  "texts": [
+    {
+      "name": "指定しない None",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「Visualization Analysis &amp; Design」、CRC Press 「可視化と科学・文化・社会」、コロナ社 (in Japanese)",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "イントロダクション（情報可視化の意義）",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "データおよびタスクの抽象化",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "記号とチャネル",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "可視化の規則",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "表データの可視化",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "空間データの可視化",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "まとめ（適用事例紹介）",
+        "incharge": null
+      }
+    }
+  ]
+}

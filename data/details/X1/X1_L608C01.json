@@ -1,0 +1,124 @@
+{
+  "name": "Advanced English II[木2]CS機械",
+  "category": "実学基礎科目 外国語",
+  "type": "演習科目",
+  "code": "L608C01",
+  "semester": "2026年度 後期",
+  "date": "木 2",
+  "target": "2年,3年,4年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ１０３",
+  "teachers": [
+    {
+      "name": "キャンベル，Ａ",
+      "affiliation": "教養学環"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.924817Z",
+  "overview": "Advanced English Iに引き続き、学術的な英語力をさらに伸ばすことを目的とした授業である。前期授業で得た専門知識を基に、より複雑なプレゼンテーションを行うことが求められる。学術的な語彙の学習も継続して行う。授業で扱う内容は、建築学、社会心理学、行政学など、さまざまな分野にわたる。前期に引き続きTOEICテスト650点以上を目指す。この授業を履修するには、エントリーテストを受け、合格することが必須である。",
+  "goal": "The course has the following aims: (1) To develop students' knowledge and skills in Academic English at a higher intermediate level (2) To expose students to intensive listening practice, typically lectures (3) To extend students' knowledge of academic vocabulary (4) To provide practice in writing short academic English texts (5) To give the students practice in pronunciation",
+  "outcomes": "国際的な教養、コミュニケーション能力、論理的な思考力、問題解決力",
+  "initiative": "アクティブラーニング",
+  "way": "With one subject being covered over two weeks, lessons will typically contain an introduction to the topic, a focus on related vocabulary, viewing of lectures, pronunciation practice and group discussions. Notebook computers are essential.",
+  "attention": "Have the textbook with you for every class. Use a good dictionary. Please take notes during the class, participate actively by taking part in all activities, and asking questions when you do not understand something. Please make sure to arrive in the classroom before the lesson starts.",
+  "preparation": "Students will be given regular homework assignments and will be expected to complete self-study in order to review and prepare for classes (for example, by doing vocabulary research). This will normally amount to 60 minutes per week.",
+  "evaluation": "「授業参加姿勢 (30%)」「課題点 (30％)」「到達度チェック (40％)」を総合的に評価する。合格点は60％とする。 授業参加姿勢とは、積極的な発言、質問、グループワークやペアワーク等授業内活動に取り組む姿勢や予習・復習状況確認のために実施する小テストの結果に関する評価を含む。 課題に関するフィードバックは、口頭、オンライン掲示、または紙上のいずれかで学生に提供される。",
+  "texts": [
+    {
+      "name": "Ellen Kisslinger; Contemporary Topics 2; Pearson; 9780134400808; 3530円（税別）",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "Relevant reference materials are provided on the course homepage.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Course orientation",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Unit 7 Social Psychology",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Unit 7 Social Psychology",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Unit 8 Architecture",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Unit 8 Architecture",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Unit 9 Public Health",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Unit 9 Public Health",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Unit 10 Urban Planning",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Unit 10 Urban Planning",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Unit 11 Biology",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Unit 11 Biology",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Unit 12 Public Administration",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Unit 12 Public Administration",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "到達度確認チェック、後期のまとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

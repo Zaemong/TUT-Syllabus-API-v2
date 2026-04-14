@@ -1,0 +1,124 @@
+{
+  "name": "Integrated English I[4]BS電電応化",
+  "category": "実学基礎科目 外国語",
+  "type": "演習科目",
+  "code": "L605B04",
+  "semester": "2026年度 前期",
+  "date": "月 2",
+  "target": "2年,3年,4年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ１０３",
+  "teachers": [
+    {
+      "name": "岡田 リディヤ",
+      "affiliation": "兼任講師"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.546365Z",
+  "overview": "１年次の学習を総合して、より高度な英語の運用能力の向上をめざす。英語ネイティブスピーカーによるCommunication skillsの向上、学際的的な内容を扱うAcademic English、グローバル時代の国際理解に必要な文化と社会に関する知識の修得をめざすCultural Studies、TOEICやビジネス英語扱うBusiness/TOEICなどを通じて、学生の興味・関心や進路に即したより高度な英語力の修得をめざす。 This course develops language skills and critical thinking through cultural knowledge with an interdisciplinary approach. It focuses on cultural diversity, global communication, shared human experiences, and topics such as cultural heritage, food, music, dance, and historical places. The course is designed for students aiming for a TOEIC score of approximately 400–500. It is offered over two semesters, and students are encouraged to continue in the second semester.",
+  "goal": "１．語彙力を強化する。 ２．具体的な事象に関して自らの考えを加えながら説明できる。 ３．批評的思考（クリティカルシンキング）によって、分析・評価ができる。 ４．グローバル時代に必要な国際的な教養力を身につける。",
+  "outcomes": "国際的な教養、コミュニケーション能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "Classes are organized around textbook units, together with review sessions, applied activities, and regular assessments. Students will prepare Vocabulary Check Sheets in advance and use them in class to review answers, confirm word meanings, and work on listening practice. This course emphasizes active learning through frequent group work and discussions, including pair tasks, and collaborative research-based activities. Feedback on quizzes and assignments will be provided during class and via Moodle. When necessary, laptops may be used for guided in-class work.",
+  "attention": "Please be sure to bring your textbook with you as you will be solving problems in each class. Also, bring a dictionary to look up the meanings of any words you don't know.",
+  "preparation": "A Vocabulary Check Sheet will be given as a preparatory assignment. Students must solve the problems before class (approximately 30 minutes). Students must complete and submit the review assignments in the assigned online workbook (approximately 30 minutes). Before classes that include progress checks, students must review all Vocabulary Check Sheets that fall within the scope of the check.",
+  "evaluation": "「授業参加姿勢 (30%)」「課題点 (30％)」「到達度チェック (40％)」を総合的に評価する。合格点は60％とする。 授業参加姿勢とは、積極的な発言、質問、グループワークやペアワーク等授業内活動に取り組む姿勢や予習・復習状況確認のために実施する小テストの結果に関する評価を含む。",
+  "texts": [
+    {
+      "name": "Andy Boon; Connecting Cultures; Cengage Learning; 978-4-86-312448-6; 2,970円",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "Instructions will be given as appropriate during class.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Class Guidance",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Unit 1: Food",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Unit 2: Neighborhoods",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Unit 3: Family and Friends",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Unit 1-3: Consolidation Activities",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Unit 1-3: Group Activities",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Midterm Progress Check &amp; Units 1-3 Research Presentations",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Unit 4: Sports and Hobbies",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Unit 5: Art and Entertainament",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Unit 6: Customs and Traditions",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Unit 4-6: Consolidation Activities",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Unit 4-6: Research Activities",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Unit 1-6: Group Activities",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "Final Progress Check &amp; Summary: Units 1-6, Research Presentations",
+        "incharge": null
+      }
+    }
+  ]
+}

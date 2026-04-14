@@ -1,0 +1,34 @@
+{
+  "name": "Integrated English II[4]CS機械",
+  "category": "実学基礎科目 外国語",
+  "type": "演習科目",
+  "code": "L606C04",
+  "semester": "2026年度 後期",
+  "date": "木 2",
+  "target": "2年,3年,4年",
+  "credit": "1.0",
+  "room": "講義実験棟３０３",
+  "teachers": [
+    {
+      "name": "シルベスター，M",
+      "affiliation": "兼任講師"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.663178Z",
+  "overview": "Integrated English Iの内容をレベルアップし、より実践的な英語力の向上を目的とする。Integrated English Iと同様に、学生の興味・関心や進路に即した内容を学習することを通じて英語の4技能のスキルアップや国際的教養、ビジネス英語のさらなる修得をめざす。Everything we experience in our human invented world, has been enabled by culture. The aim of this course is to look at our achievements due to culture, and also to recognize the problems that arise because of culture. This course is CEFR B1/B1+.",
+  "goal": "１．語彙力を強化する。 ２．具体的な事象に関して自らの考えを加えながら説明できる。 ３．批評的思考（クリティカルシンキング）によって、分析・評価ができる。 ４．グローバル時代に必要な国際的な教養力を身につける。",
+  "outcomes": "国際的な教養、コミュニケーション能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "The activities we do are to increase information awareness, recognition, and to develop confidence and skill at expressing ideas. This can be through working individually and together, participation being an important element of the course. Feedback will be given either orally or in written format (ex: via Google Classroom/Moodle).",
+  "attention": "Lesson material and activities are through online sites (Google Classroom and Moodle) so, you will need your computer for each lesson, (earphones will also be needed). It is recommended that you take this course in the first AND second term. The two halves of this course have the same syllabus but the lesson contents are different.",
+  "preparation": "Lesson material will be available before the lesson. Looking at the material before the lesson (preferably giving yourself an hour of time to think about the lesson theme and topics. A readiness to ask questions will be important, to show you are considering the theme and topics as one whole entity. Assignments and final activities in the lessons are connected to considering both lesson themes and topics.",
+  "evaluation": "「授業参加姿勢 (30%)」「課題点 (30％)」「到達度チェック (40％)」を総合的に評価する。合格点は60％とする。 授業参加姿勢とは、積極的な発言、質問、グループワークやペアワーク等授業内活動に取り組む姿勢や予習・復習状況確認のために実施する小テストの結果に関する評価を含む。 課題に対するフィードバックは授業時間内、あるいは Google ClassroomとMoodleなどを通じて随時行う。",
+  "texts": [
+    {
+      "name": "There is no textbook for this course. All material will be provided.",
+      "isbn": null
+    }
+  ],
+  "references": [],
+  "plans": []
+}

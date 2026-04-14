@@ -1,0 +1,82 @@
+{
+  "name": "環境バイオセンシング特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11501",
+  "semester": "2026年度 後期",
+  "date": "火 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "秋元 卓央",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.274644Z",
+  "overview": "既存の方法では検出が困難な物質を、微生物やタンパク質、DNAなどを利用して分析したり検出する技術をバイオセンシング技術という。現在は、バイオセンシング技術は環境や医療の分野で広く応用されている。この授業ではバイオセンシングの基礎から応用までを、最新の文献などの紹介とともに解説する。 Biosensing is a sensing technology capable of detecting substances, which are difficult to detect with traditional methods, using microorganisms, proteins, DNA. The biosensing technology is currently widely applied in the fields of environment and medicine. This class will explain biosensing from the basics to applications, along with an introduction to the latest literature.",
+  "goal": "バイオセンサーの原理や環境分析への応用方法を学び、バイオセンサーの利点や学問的な課題を自ら発見できる知識を身に付けることを目的とする。この授業を通してバイオセンサーについての実学に基づく専門能力を身につけることを目指す。また、英語課題を通して国際的な教養を身につけることも目指す。 The aim of this course is to learn the principles of biosensors and application to environmental analysis. We hope student to acquire the knowledge of the advantages and academic challenges of biosensors, and, consequently, to learn practical expertise in biosensors. International literacy will be acquired through English assignments.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "対面で講義を行う。また、理解を深めるためにバイオセンサーに関する英語課題の日本語訳をアクティブラーニングとして行う。課題に対するフィードバックはmoodleで行う。授業にはノートPCを持参すること。 Lectures will be given face-to-face. In order to understand deeply, students will translate research report about biosensors written in English into Japanese as an active learning activity. Feedback on the assignments will be given on Moodle. Students are required to bring a laptop to class.",
+  "attention": "学部での講義「バイオセンシング」や「環境バイオテクノロジー」を履修していた場合は、復習しておくこと。履修していなかった場合は、下に示す教科書を読んでおくこと。 If you have taken the undergraduate courses \"Biosensing\" or \"Environmental Biotechnology\", please review them. If you have not taken these courses, please read the textbooks listed below.",
+  "preparation": "授業前に授業資料をアップロードするので、授業資料を利用してよく予習をすること。また、授業ノートを見ながら授業資料を読み直すことで復習をすること。英語課題についても、授業後に読み直し理解を深めておくこと。 The class materials will be uploaded before the class, so use them for preparation. Please review the class materials by re-reading them by using your notebook. You should also re-read your English assignments after class to your understanding.",
+  "evaluation": "英語課題とレポートで評価する。評価の比率は6：4（英語課題：レポート）である。 The evaluation is based on English assignments and reports. The evaluation ratio is 6:4 (English assignments: reports).",
+  "texts": [
+    {
+      "name": "バイオセンサーのはなし、軽部征夫編著、日刊工業新聞社 バイオセンサー・ケミカルセンサー事典 軽部征夫、テクノシステム",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "特に指定しない。 Not specified.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "バイオセンシングの歴史",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "DNAを利用したバイオセンシング",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "環境汚染物質を測定するバイオセンサー",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "変異原物質を測定するバイオセンサー",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "蛍光タンパク質を利用したバイオセンシング",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "バイオセンサーの将来技術",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "バイオセンシングの英語文献の調査",
+        "incharge": null
+      }
+    }
+  ]
+}

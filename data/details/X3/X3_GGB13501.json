@@ -1,0 +1,82 @@
+{
+  "name": "食品産業学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB13501",
+  "semester": "2026年度 後期",
+  "date": "月 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ１０２",
+  "teachers": [
+    {
+      "name": "安川 然太",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.173273Z",
+  "overview": "食品産業は、社会や消費者の変化に応じて常に技術革新を遂げてきました。本授業では、代表的なイノベーション事例を解説し、学生は関心のある事例を深く調査・分析して発表します。発表後の討論を通じて、技術革新の意義と展望を理解します。授業は日本語または英語で行われます。 The food industry has continuously innovated to meet societal and consumer changes. In this course, representative innovation examples are explained, and students conduct in-depth research and analysis on topics of interest for presentation. Through post-presentation discussions, the significance and future prospects of technological innovation are understood. The course is conducted in either Japanese or English.",
+  "goal": "本授業では、事例紹介を通じて社会ニーズと食品産業の技術革新の関係を理解し、製品開発の視点を養います。事例調査と分析を通じて論理的思考力と問題解決能力を身につけ、コミュニケーション能力を向上させます。社会が求める食品の企画・開発能力を修得し、英語での授業の場合はグローバルな食品産業で活用できる英語力を養います。 This course aims to understand the relationship between social needs and technological innovation in the food industry through case study presentations, and to cultivate perspectives for product development. Through case studies and analysis, logical thinking and problem-solving skills are developed, and communication skills are enhanced. Students acquire the ability to plan and develop food products that meet societal needs, and in the case of classes conducted in English, develop specialized English skills that can be utilized in the global food industry.",
+  "outcomes": "実学に基づく専門能力、コミュニケーション能力、論理的な思考力、問題解決力",
+  "initiative": "",
+  "way": "講義と演習形式で行う。各回ともノートPCは必ず持参すること。 The course will be conducted through a combination of lectures and practical exercises. Students are required to bring their laptops to every session.",
+  "attention": "学部で開講している食品系の講義を履修している事が望ましい。 It is desirable that students have completed food science-related courses offered at the undergraduate level.",
+  "preparation": "興味のある加工食品について調べておくこと。また各回で学習した内容を復習すること。 Students should research processed foods of interest. Additionally, they should review the content learned in each session.",
+  "evaluation": "評価は、講義中の受講態度（積極的な参加、質問応答、理解度）とプレゼンテーション課題（調査の深さ、発表の質、討論参加度）の2つの観点から総合的に行われます。 Evaluation is conducted comprehensively from two perspectives: class participation (active participation, responses to questions, understanding) and presentation assignment (depth of research, quality of presentation, participation in discussions).",
+  "texts": [
+    {
+      "name": "特に指定しない。 Not specified",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "食品産業の発展 農林水産省 Food Industry Development: MAFF (Ministry of Agriculture, Forestry and Fisheries) https://www.maff.go.jp/j/meiji150/eiyo/04.html",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "授業方針、加工食品業界と食品産業、レトルト殺菌技術",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "瞬間冷凍技術、無菌充填包装、",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "マイクロ波加熱、エクストルージョン技術",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "代替タンパク質、機能性素材",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "スマートフード、ゲノム編集技術",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "酵素技術の応用",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "HACCP、トレーサビリティシステム、DNA鑑定",
+        "incharge": null
+      }
+    }
+  ]
+}

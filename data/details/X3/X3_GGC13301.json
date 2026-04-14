@@ -1,0 +1,82 @@
+{
+  "name": "常微分方程式の数値解法",
+  "category": "専門科目 コンピュータサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGC13301",
+  "semester": "2026年度 後期",
+  "date": "木 1",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０４",
+  "teachers": [
+    {
+      "name": "山元 進",
+      "affiliation": "コンピュータサイエンス学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.122708Z",
+  "overview": "この講義では、数値シミュレーションの基礎として、数値計算の誤差の性質を学び、解析解が求まる常微分方程式(ODE)を数値的に解くことを通して近似解の性質を理解する。実験と異なり条件を柔軟に変更できる数値シミュレーションは、計算機性能向上により重要性を増しているが、近似による誤差は避けられない。シミュレーションは多くの場合 ODE を解く作業であり、ODEの数値解の性質を理解することが非常に重要である。 This course introduces the fundamental concepts needed for numerical simulation, focusing on the nature of numerical errors and how approximation methods affect numerical results. Students will explore these ideas by numerically solving ordinary differential equations (ODEs) with known analytical solutions. As computing power continues to advance, numerical simulation has become increasingly important because it allows flexible control of conditions, unlike experiments. However, approximation errors are inevitable. Since many simulations reduce to solving ODEs, understanding the behavior of numerical solutions is essential.",
+  "goal": "2階常微分方程式の中で応用範囲が広く、その後の発展のために不可欠な単振動の問題を理解する。計算が破綻する条件は何か、破綻するとどうなるのかを理解する。 A goal of this course is to understand simple harmonic motion, a second‑order ODE. This topic has wide applicability across science and engineering and forms an essential foundation for more advanced studies in dynamical systems and numerical analysis. Students will also investigate the conditions under which numerical computations may fail, how such failures manifest in the results, and are encouraged to reason for themselves why these breakdowns occur. Through this understanding, they will learn to critically evaluate the stability and reliability of numerical solutions.",
+  "outcomes": "論理的な思考力、分析・評価能力、問題解決力",
+  "initiative": "",
+  "way": "講義資料は、Moodle を通して配布する。 座学形式だが、適宜、実際に計算してもらう。 最終講は単振動をテーマに、数値解を解析してもらい、それをプレゼンテーションしてもらう。 Lecture materials will be distributed through Moodle. Although the course is primarily lecture‑based, students will be asked to carry out calculations during class as appropriate. In the final session, students will analyze numerical solutions of simple harmonic motion and present their results.",
+  "attention": "各自、最も習熟しているグラフ描画環境を用意し、 毎回の講義に持参すること。 毎回とは限らないが、講義中に計算してグラフを描いてもらう機会もある。 最後のプレゼンテーションのためにも必須なので、 何かしら浮動小数点数を用いた計算プログラムを実行し、 グラフを描ける環境が必須となる。 環境は指定しないので、各自の好みで決めてよい。 例えば、Python で matplotlib を使うなら、 描画可能な Python の実行環境を用意する。 Students should bring a graph‑plotting environment they are comfortable using to every class. You will need it in many sessions, as you will often be asked to run calculations and create plots during class. This environment is also required for the final presentation, where you will need to execute programs that use floating‑point arithmetic and generate graphs. You are free to choose any platform you prefer. For example, if you plan to use Python with matplotlib, make sure you have a working Python setup capable of producing plots.",
+  "preparation": "予習：授業計画にあるキーワードについて事前に調べておく。また、講義前に資料を配布するので、それに目を目を通しておき分かりにくそうなところの目星をつけておけば、講義が理解しやすくなる。 復習：前回の講義内容を振り返り、学修内容を整理すること。 Preparation: Before each class, look up the keywords listed in the course schedule. Lecture materials will be provided in advance. By reviewing them ahead of time and noting areas that may be challenging, you will be able to follow the lecture more effectively. Review: After each class, go over the previous lecture and organize what you have learned.",
+  "evaluation": "欠席が多ければ欠格(X)となる。 最後のプレゼンテーションで合否を判定する。 プレゼンテーションの欠席は欠格(X)である。 プレゼンテーションの評点を７割とする。 その他の講義中の質疑応答などの結果を３割として最終的な成績を定める。 Students with excessive absences will receive a failing grade (X). The final presentation will determine whether a student passes or fails the course. Absence from the presentation results in an automatic failing grade (X). The presentation score will account for 70% of the final grade. The remaining 30% will be based on participation, including responses to questions and other contributions during class.",
+  "texts": [
+    {
+      "name": "利用しない。 No textbook is required; all materials will be provided in class.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「数値計算の常識」 伊理 正夫, 藤野 和建 共立出版 (1985) The following book is recommended as a reference: Masao Iri &amp; Kazutake Fujino, Common Sense for Numerical Calculation, Kyoritsu Publishing, (1985).",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "計算機中での数値の取り扱い方・表現法や誤差についての初歩的知識．",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "関数補間(ラグランジュ補間多項式)",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "関数近似・多項式近似など．",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "数値微分・差分法とテイラー展開の関係を中心とする．",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "数値積分",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "2階常微分方程式の初期値問題の数値解法",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "まとめ -- テーマに従ったプレゼンテーションをしてもらう",
+        "incharge": null
+      }
+    }
+  ]
+}

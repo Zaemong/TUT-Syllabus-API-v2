@@ -1,0 +1,82 @@
+{
+  "name": "レドックスバイオロジー特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB10701",
+  "semester": "2026年度 前期",
+  "date": "金 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "加柴 美里",
+      "affiliation": "教養学環"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.260458Z",
+  "overview": "ヒトの生命活動は多様な化学反応によりなりたっている．レドックスバイオロジ‐では，還元(reduction)と酸化(oxidation)反応による生命現象に注目する．酸化還元反応の具体例として，ミトコンドリア電子伝達系のエネルギー産生，白血球の殺菌作用をとりあげる．また，レドックスにかかわる分子群として注目されているスーパーオキシドや，一酸化窒素，一酸化炭素についても紹介する． In redox biology, we focus on the biological phenomena caused by reductive and oxidative reactions. Examples of redox reactions include energy production by the mitochondrial electron transfer system and bactericidal activity of leukocytes. Superoxide, nitric oxide, and carbon monoxide, which are attracting attention as molecular groups involved in redox reactions, will also be introduced.",
+  "goal": "酸化還元反応が関与する病態生化学について学ぶ． 生体内の酸化・還元反応について知る． ミトコンドリア電子伝達系のエネルギー産生機構を学ぶ． 活性酸素・フリーラジカルとこれらを捕捉・消去する抗酸化物質・抗酸化酵素について知る． 一酸化窒素，一酸化炭素の産生機構とその働きを学ぶ． これらの学修を通じて「論理的な思考力」や「国際的な教養」を学ぶ． To learn about pathological biochemistry involving oxidation-reduction reactions. To learn about oxidation and reduction reactions in vivo. Learn about the energy production mechanism of mitochondrial electron transfer system. Learn about reactive oxygen species and free radicals, and the antioxidants and antioxidant enzymes that capture and eliminate them. To learn about the production mechanism of nitric oxide and carbon monoxide and their functions.",
+  "outcomes": "国際的な教養、論理的な思考力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "パワーポイント資料で説明しながらの講義を行うが，随時，質問-解答を求めるアクティブラーニングスタイルで行うので積極的に講義に参加しほしい．英語での講義を計画しているが，受講者の理解度も見ながら柔軟に対応したい．ノートPCは必携ではないが，ムードルにアクセスできる端末を持参すること． Bring a terminal that can access Moodle.",
+  "attention": "予習，復習を行うこと． 授業中に提示する課題にしっかりと取り組むこと． 学部で行った生物系，化学系の講義内容を習得していることが望ましい．",
+  "preparation": "授業後に，それぞれの回の課題に取り組むこと．",
+  "evaluation": "毎回行う小テスト50％，レポート50％として評価する．小テストの内容については，翌週に解説・フィードバックを行う．",
+  "texts": [
+    {
+      "name": "なし",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "授業中に紹介する．",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "レドックスバイオロジ‐とは",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "活性酸素の産生1（ミトコンドリア電子伝達系）",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "活性酸素の産生2（白血球の殺菌作用）",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "一酸化窒素（NO）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "一酸化炭素（CO）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "抗酸化物質とは",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "レドックスバイオロジーの最新の話題",
+        "incharge": null
+      }
+    }
+  ]
+}

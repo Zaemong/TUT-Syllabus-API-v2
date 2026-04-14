@@ -1,0 +1,82 @@
+{
+  "name": "符号理論と信号処理",
+  "category": "専門科目 コンピュータサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGC12601",
+  "semester": "2026年度 前期",
+  "date": "水 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "講義実験棟４０１",
+  "teachers": [
+    {
+      "name": "大石 邦夫",
+      "affiliation": "コンピュータサイエンス学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.114441Z",
+  "overview": "身近で使用されているディジタル信号処理について理解するために，ディジタル信号処理の基礎として標本化定理，量子化，フーリエ変換，ディジタルフィルタ，離散フーリエ変換，高速フーリエ変換について概説する。次いで，情報圧縮では，信号の特性をどのように利用して圧縮率を高め，どのような技術と有機的に組み合わせると圧縮効果が高まるのかを講述する。理解を深めるために，議論，演習，プログラム作成などにより実践的に信号処理を学んでいくことを目標とする。この授業では主に論理的な思考力，問題解決力と分析・評価能力を身につけることを目的としている。さらに，実学に基づく専門能力を増やすことを目指している。 To understand the digital signal processing used in everyday life, we will provide the sampling theorem, quantization, digital filters, and the fast Fourier transform. Next, regarding information compression, we will discuss how to use the characteristics of signals to increase the compression rate, and what technologies can be organically combined to increase the compression effect. The goal is to learn signal processing through discussions and exercises. The main purpose of this class is to acquire logical thinking skills, problem-solving skills, and analytical and evaluation skills. Furthermore, we aim to increase specialized abilities based on practical studies.",
+  "goal": "携帯端末に実装されている信号処理と符号理論について説明できるようになる。（実学に基づく専門能力、論理的な思考力、分析・評価能力、問題解決力） Be able to explain signal processing and coding theory implemented in mobile terminals. (Specialized skills based on practical studies, logical thinking skills, analytical and evaluation skills, problem-solving skills)",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、分析・評価能力、問題解決力",
+  "initiative": "",
+  "way": "原則として配付資料に沿って講義を進める。重要な内容に関しては，小テスト， レポートを課す。配付資料の入手、小テストの実施のためにノートPC必携のこと。尚、論理的思考力の育成のため、授業及び課題取り組みにおいてサンプルコードの参照やAIによるコードの生成を一切認めないことがある。 As a general rule, the lecture will proceed according to the handout materials. For important content, quizzes and reports will be given. A laptop computer is required for obtaining handout materials and conducting quizzes. Additionally, in order to foster logical thinking skills, we may not allow students to refer to sample code or generate code using AI in class or when working on assignments.",
+  "attention": "情報理論を履修すると，講義内容の理解が容易になる。 Taking information theory will make it easier to understand lecture content.",
+  "preparation": "毎回，講義内容を予習、復習することが望ましい（120分程度）。 It is recommended that you prepare for and review the lecture content each time (approximately 120 minutes).",
+  "evaluation": "小テスト 50%，レポート 50% の配分により総合的に評価する。小テスト、レポートの実施後にMoodleに正解、受験結果、解答例を掲載するとともに、小テストについては次回の講義冒頭で解説する。 Comprehensive evaluation with 50% quiz and 50% report. After the quiz and report are conducted, the correct answers, exam results, and sample answers will be posted on Moodle, and the quiz will be explained at the beginning of the next lecture.",
+  "texts": [
+    {
+      "name": "大石邦夫「C 言語によるはじめて学ぶ信号処理」（コロナ社） 久保田一，大石邦夫，福本昌弘「C 言語による情報理論入門」（コロナ社） Kunio Oishi, “Learn signal processing for the first time using C language,” Corona Publishing. Hajime Kubota, Kunio Oishi, and Masahiro Fukumoto, “Introduction to information theory using C language,” Corona Publishing.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "指定参考書はなし。更に詳しく勉強したい学生は，上記教科書の巻末の参考書を参照すること。 There are no designated reference books. Students who wish to study in more detail should refer to the reference books at the end of the above textbook.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "A-D変換: A-D変換: エイリアシング，標本化定理",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "D-A変換: 量子化とディジタル量，量子化ビット数とSNR",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "情報源符号化: 一意復号可能性と瞬時符号",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "情報源符号化: 情報源符号化定理、ハフマン符号、ランレングス符号化、ランレングスハフマン符号化",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "予測符号化: z 変換とその諸性質（線形性，時間推移，たたみ込み演算の z 変換）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "マルチレート信号処理: 完全再構成条件、直線位相フィルタ",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "周波数変換と実時間処理:ウェーブレット変換、離散コサイン変換、コムフィルタ",
+        "incharge": null
+      }
+    }
+  ]
+}

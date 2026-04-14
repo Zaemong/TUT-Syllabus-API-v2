@@ -1,0 +1,82 @@
+{
+  "name": "視覚的注意と認知",
+  "category": "専門科目 コンピュータサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGC14101",
+  "semester": "2026年度 後期",
+  "date": "火 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０３",
+  "teachers": [
+    {
+      "name": "伝保 昭彦",
+      "affiliation": "コンピュータサイエンス学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.311056Z",
+  "overview": "人間は常に大量の視覚的情報を外界から受け取っているが、その全てを処理することは不可能である。そこで、必要な情報を選択したり、不必要な情報を抑制したりしなければならない。このような認知的機能のことを「視覚的注意」という。本授業においては視覚的注意の働きや理論、および視覚的注意に関係する心理的な現象などについて紹介する。また、視覚的注意に関係する諸問題について各自で探求し、認知心理学的な観点から議論を行う。 Human beings consistently receive a tremendous amount of visual information; however, not all of it can be processed. Consequently, it is necessary to select essential information and suppress irrelevant information. This cognitive function is called \"visual attention\". In this class, theories and functions of visual attention, as well as psychological phenomena related to visual attention, are introduced. Each student is required to investigate issues related to visual attention and discuss them from the viewpoint of cognitive psychology.",
+  "goal": "人間が行っている情報処理に関する理論や基礎知識を身に付けることで、実学に基づく専門能力を育成する。また、主体的に必要な先行研究の調査を行い、その成果を論理的にまとめる能力を高めるとともに、他者に理解しやすい形で提示する能力を養う（論理的な思考力、コミュニケーション能力）。 To cultivate practical professional abilities, students learn theories and foundational knowledge related to human information processing. Students are encouraged to actively research previous studies, summarize them, and present them in a logical manner.",
+  "outcomes": "実学に基づく専門能力、コミュニケーション能力、論理的な思考力",
+  "initiative": "アクティブラーニング",
+  "way": "前半の授業は主に講義形式で行う。後半の授業では、アクティブラーニングの一環として、前半に紹介した理論や実例に関する先行研究の調査をグループに分かれて行う。調査の結果は授業内で発表する。 授業資料の配布や先行研究の調査、資料の作成などのため、PCは全回必携とする。 The first half of the class is conducted mainly in lecture style. In the second half of the class, students work in groups to research previous studies related to the theories and examples introduced in the first half of the class. The results of the research are presented in class. Students are required to bring a PC to all classes in order to distribute class materials, research previous studies, and prepare materials.",
+  "attention": "本授業ではグループワークや発表を行うことがある。授業中に指示があった調査などは指定された期日までに必ず終えること。 In some lessons, students need to engage in group work and make presentations. All students must comply with the deadlines instructed in class.",
+  "preparation": "提出物は指定された期日までに提出すること。また、先行研究の調査を積極的に行うこと。 All documents that are to be submitted must be turned in by the deadlines. Students are encouraged to actively explore previous studies.",
+  "evaluation": "前半の授業の提出課題を60%、先行研究の調査と発表内容を40%として評価する。 Documents that are to be submitted in the first half account for 60% of the score. The investigation and presentation of previous studies account for 40% of the score.",
+  "texts": [
+    {
+      "name": "指定しない。 There is no specific textbook.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "河原・横澤(2015) シリーズ統合的認知1 注意 選択と統合 勁草書房 原田・篠原（編）(2011) 現代の認知心理学4 注意と安全 北大路書房 Kawahara &amp; Yokosawa (2015). Series \"Togoteki-ninchi1 Sentaku to Togo\" Keiso shobo (printed in Japanese). Harada &amp; Shinohara, eds. (2011). \"Gendai-no-ninchishinrigaku4 Chui to Anzen\" Kitaoji shobo(printed in Japanese)",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "ガイダンス：本授業の進め方、注意とは何か",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "注意と認知の諸理論",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "注意と認知に関する研究",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "注意と認知研究の応用",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "先行研究の調査",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "発表の準備",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "調査内容の発表、まとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

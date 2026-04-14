@@ -1,0 +1,39 @@
+{
+  "name": "バイオインフォマティクス特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11901",
+  "semester": "2026年度 前期",
+  "date": "火 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０４",
+  "teachers": [
+    {
+      "name": "土井 晃一郎",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.303709Z",
+  "overview": "バイオインフォマティクスとはコンピュータを使って生物学のデータを解析する学問である。生物学において大量のデータが生成されるようになり、この分野は急速に発展してきている。 この講義では、前半にバイオインフォマティクスの概要、配列検索、クラスタリングなどの大規模データ処理に関する技術に関して学ぶ。後半では医療応用として疾患関連遺伝子探索をテーマに、その基礎となる遺伝統計学、連鎖解析、関連解析などの手法、パーソナルゲノム解析に関して学ぶ。 Bioinformatics is the study of using computers to analyze biological data. This field is rapidly growing as large amounts of data are generated in biology. In the first half of this lecture, students will learn an overview of bioinformatics and techniques for large-scale data processing such as sequence searching and clustering. The second half of the lecture will focus on the theme of disease-related gene discovery as a medical application, and will cover the fundamentals of genetic statistics, linkage analysis, association analysis, and other methods, as well as personal genome analysis.",
+  "goal": "バイオインフォマティクスによる解析方法の基本的なことを理解する。また、疾患関連遺伝子探索に関する概要を理解する。それにより、バイオインフォマティクスの実学に基づく専門能力と問題解決力を身につけることを目指す。 Understand the basics of bioinformatics analysis methods. The course also provides an overview of the search for disease-related genes. The aim is to acquire professional skills and problem-solving abilities based on practical bioinformatics studies.",
+  "outcomes": "実学に基づく専門能力、問題解決力",
+  "initiative": "",
+  "way": "基本的に講義形式でおこなうが、指名ー回答ー解説によるアクティブラーニング形式の授業も一部で取り入れる。レポート課題のフィードバックを講義中に行う。講義中にMoodle上の講義資料を見られるようにノートPCを持参すること。 Basically, lectures will be given in a lecture format, but active learning style classes will also be used in some parts of the course. Feedback on report assignments will be given during the lecture. Students are required to bring their own laptops so that they can access the lecture materials on Moodle during the lecture.",
+  "attention": "分子生物学、統計解析の基本的な事項を理解しておくことが望ましい。 Basic understanding of molecular biology and statistical analysis is desirable.",
+  "preparation": "Moodle上においた講義資料を読んでおくこと。不明な点をリストアップして、出来れば調べておくこと。(120分程度) また、講義後は講義資料をもとに講義の内容をよく復習すること。(120分程度) Read the lecture materials on Moodle. Make a list of points that are unclear and research them if possible. (about 120 minutes). After the lecture, students should review the lecture content based on the lecture materials. (about 120 minutes)",
+  "evaluation": "複数回のレポートで評価する。レポートのフィードバックを適宜講義中に行う。 Multiple reports will be evaluated. Feedback on reports will be given during lectures as appropriate.",
+  "texts": [
+    {
+      "name": "指定しない。講義は配付資料に沿って行う。 Not specified.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "「よくわかるバイオインフォマティクス入門」藤博幸 講談社 「遺伝統計学入門」 鎌谷直之 岩波書店",
+      "isbn": null
+    }
+  ],
+  "plans": []
+}

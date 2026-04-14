@@ -1,0 +1,39 @@
+{
+  "name": "数理最適化入門",
+  "category": "専門科目 コンピュータサイエンス専攻",
+  "type": "講義科目",
+  "code": "GGC13801",
+  "semester": "2026年度 後期",
+  "date": "火 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ２０３",
+  "teachers": [
+    {
+      "name": "佐々木 亮平",
+      "affiliation": "コンピュータサイエンス学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.199941Z",
+  "overview": "与えられた制約条件のもと，ある１つの目的関数を最大・最小とするような状態を求める問題を最適化問題（数理計画問題）と呼ぶ．最適化問題は一般に，ある条件のもとで“最良”の状態を得るために定式化されるものであり，その解法である数理最適化は工学のみならず多種多様な分野に広く普及している重要な技術である．本講義では数理最適化の入門として，最適化問題の種類ごとの初歩的な解説と具体的なアルゴリズムについて演習を通して学ぶ．演習ではPythonによるプログラムを扱い，数理最適化の理論と並行してアルゴリズムを自作することで本講義の理解を深める． An optimization problem is a problem of finding a state that maximizes or minimizes a given objective function under specified constraints. This course provides an introduction to mathematical optimization, covering fundamental concepts of various types of optimization problems and their representative algorithms through hands-on exercises. In the exercises, students use Python to implement algorithms, thereby deepening their understanding of both optimization theory and practical implementation.",
+  "goal": "最適化問題の種類ごとの重要な性質や有効なアルゴリズムについて理解・習得する(論理的な思考力)．また，そのアルゴリズムの実装方法を習得する(実学に基づく専門能力，問題解決力)． Students will understand and acquire important properties and effective algorithms for different classes of optimization problems (logical thinking skills). They will also learn how to implement these algorithms in practice (practical professional competence and problem-solving ability).",
+  "outcomes": "実学に基づく専門能力、論理的な思考力、問題解決力",
+  "initiative": "",
+  "way": "毎回の授業において，前半で各技術の概要について説明し，後半でPythonによるプログラム実装を行う（ノートPCを必携とする）．プログラムは課題として扱い，授業時間内に終わらなければ宿題とする．なお，理解度を確認するために，必要に応じてプログラミング以外の課題を出題する場合がある． In each class, the first half is devoted to explaining the theoretical background and concepts, while the second half focuses on implementing algorithms in Python. Students are required to bring their own laptop computers. Programming exercises are assigned as in-class work or homework.",
+  "attention": "大学1年生で学ぶ線形代数，微分積分の初歩的な理解が必要である．また，Pythonプログラミングやアルゴリズムの実装経験が必要である．なお，各回の課題はIPython Notebook形式でのファイル提出を行うため，Jupyter LabやGoogle Colaboratory等の環境を事前に用意しておくこと． A basic understanding of linear algebra and calculus, as well as prior experience in Python programming and algorithm implementation, is required. Since assignments are submitted in IPython Notebook format, students should prepare an environment such as JupyterLab or Google Colaboratory in advance.",
+  "preparation": "各回の授業の内容をノートにまとめ，復習すること(60分程度)．また，宿題があった場合は次回の授業開始までに提出すること． Students are expected to review each class and summarize the content in their notes (approximately 60 minutes). Any homework assignments must be submitted before the next class session.",
+  "evaluation": "各回の課題(100%)により判断する． Grades are determined based on assignments from each class (100%).",
+  "texts": [
+    {
+      "name": "指定しない． No textbook specified.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "・久保幹雄 (監修)， 並木誠 (著)，「Pythonによる数理最適化入門」，朝倉書店，2018 ・坂和 正敏 (著)，「数理計画法の基礎」，森北出版，1999 Mikio Kubo (Supervisor) and Makoto Namiki, Introduction to Mathematical Optimization with Python, Asakura Publishing, 2018 (ISBN-13 ‏ : ‎ 978-4254128956) Masatoshi Sakawa, Fundamentals of Mathematical Programming, Morikita Publishing, 1999 (ISBN-13 ‏ : ‎ 978-4627916418)",
+      "isbn": null
+    }
+  ],
+  "plans": []
+}

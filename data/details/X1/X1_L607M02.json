@@ -1,0 +1,124 @@
+{
+  "name": "Advanced English I[金1]MS",
+  "category": "実学基礎科目 外国語",
+  "type": "演習科目",
+  "code": "L607M02",
+  "semester": "2026年度 前期",
+  "date": "金 1",
+  "target": "5年",
+  "credit": "1.0",
+  "room": "講義実験棟３０１",
+  "teachers": [
+    {
+      "name": "ブロックルバンク",
+      "affiliation": "教養学環"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:23.102352Z",
+  "overview": "この授業は、講義の聞き取りやプレゼンテーションに重点を置いた、学術的な英語力の向上を目指す上級レベルの授業である。また、学術的な語彙の知識も深めることも目指す。授業で扱う内容は、社会学、言語学、教育学など、さまざまな分野にわたる。TOEICテスト600以上の取得を目指す。この授業を履修するには、エントリーテストを受け、合格することが必須である。 Students who join this course are also asked to join the second part of this course starting in September.",
+  "goal": "The course has the following aims: (1) To develop students' knowledge and skills in Academic English at a higher intermediate level (2) To expose students to intensive listening practice, typically lectures (3) To extend students' knowledge of academic vocabulary (4) To provide practice in writing short academic English texts (5) To give the students practice in pronunciation",
+  "outcomes": "国際的な教養、コミュニケーション能力、論理的な思考力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "With one subject being covered over two weeks, lessons will typically contain an introduction to the topic, a focus on related vocabulary, viewing of lectures, pronunciation practice and group discussions. Notebook computers are essential.",
+  "attention": "Have the textbook with you for every class. Use a good dictionary. Please take notes during the class and participate actively by taking part in all activities and asking questions when you do not understand something.",
+  "preparation": "Students will be given regular homework assignments and will be expected to complete self-study in order to review and prepare for classes (for example, by doing vocabulary research). This will normally amount to 60 minutes per week.",
+  "evaluation": "「授業参加姿勢 (30%)」「課題点 (30％)」「到達度チェック (40％)」を総合的に評価する。合格点は60％とする。 授業参加姿勢とは、積極的な発言、質問、グループワークやペアワーク等授業内活動に取り組む姿勢や予習・復習状況確認のために実施する小テストの結果に関する評価を含む。 課題に関するフィードバックは、口頭、オンライン掲示、または紙上のいずれかで学生に提供される。",
+  "texts": [
+    {
+      "name": "Ellen Kisslinger; Contemporary Topics 2; Pearson; 978-0-13-440080-8; 3696円",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "None",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "Orientation",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "Unit 1 Sociology",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "Unit 1 Sociology",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "Unit 2 Linguistics",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "Unit 2 Linguistics",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "Unit 3 Psychology",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "Unit 3 Psychology",
+        "incharge": null
+      }
+    },
+    {
+      "8": {
+        "name": "Unit 4 Business",
+        "incharge": null
+      }
+    },
+    {
+      "9": {
+        "name": "Unit 4 Business",
+        "incharge": null
+      }
+    },
+    {
+      "10": {
+        "name": "Unit 5 Education",
+        "incharge": null
+      }
+    },
+    {
+      "11": {
+        "name": "Unit 5 Education",
+        "incharge": null
+      }
+    },
+    {
+      "12": {
+        "name": "Unit 6 History",
+        "incharge": null
+      }
+    },
+    {
+      "13": {
+        "name": "Unit 6 History",
+        "incharge": null
+      }
+    },
+    {
+      "14": {
+        "name": "到達度確認チェック、後期のまとめ",
+        "incharge": null
+      }
+    }
+  ]
+}

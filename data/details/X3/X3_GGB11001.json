@@ -1,0 +1,39 @@
+{
+  "name": "ゲノム機能解析学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11001",
+  "semester": "2026年度 前期",
+  "date": "木 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "佐藤 淳",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.163645Z",
+  "overview": "近年、様々な生物のゲノム構造（塩基配列）が明らかとなり、生物機能の全体像を解析するための基盤が整ってきた。このゲノム構造をもとに、遺伝子機能をゲノムスケールで解明する取り組みがゲノム機能解析学である。本講義では、最近新たに明らかとなってきたゲノム機能（クロマチン構造、ヒストンコード、エピジェネティックス、メチル化DNA、ゲノムインプリンティング、X染色体不活性化、環境とエピジェネティックス、ノンコーディングRNAなど）の基礎、ならびにその最新情報について学ぶ。 In recent years, the genome structures (nucleotide sequences) of various organisms have been elucidated, providing a foundation for analyzing the overall picture of biological functions. This lecture will cover the basics of recently uncovered genome functions (such as chromatin structure, histone code, epigenetics, DNA methylation, genomic imprinting, X-chromosome inactivation, environment and epigenetics, and non-coding RNA), as well as the latest information in the field.",
+  "goal": "本講義では、ゲノム機能についての実学に基づく専門力を身につけることを目指す。具体的には、近年進展が著しいゲノムサイエンスの基本知識や最新情報（クロマチン構造、ヒストンコード、エピジェネティックス、メチル化DNA、ゲノムインプリンティング、X染色体不活性化、環境とエピジェネティックス、ノンコーディングRNAなど）の習得を目標とする。さらに、英語で講義を行い、英語での課題提出を課すことにより、コミュニケーション能力と国際的な教養を高めることも目標としている。 This lecture aims to equip students with practical, specialized knowledge about genome functions. Specifically, the goal is to acquire fundamental knowledge and the latest insights into genome science, which has seen remarkable advancements in recent years (including topics such as chromatin structure, histone code, epigenetics, DNA methylation, genomic imprinting, X-chromosome inactivation, environment and epigenetics, and non-coding RNA). Additionally, the lecture will be conducted in English, and assignments will also be submitted in English, aiming to enhance the communication skills of students and foster international cultural literacy.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、コミュニケーション能力",
+  "initiative": "アクティブラーニング、英語による授業",
+  "way": "ゲノム機能解析学を学習する上で必須となる分子生物学にも触れながら、講義を進めていく。予習に基づく課題提出をお願いしている。講義を受けるのに際して、各自PCを持参の事（最新情報をインターネットで確認しながら進める）。指名した学生に課題や質問の回答を求め、その回答例を参考にしながら講義内容を確認するアクティブラーニング形式を取り入れる。なお、この講義は英語で授業を行い、英語で質問しながら理解の確認を行う。毎回、講義内容の課題を課しており、そのフィードバックは講義中に行う。 The lecture will progress while also covering molecular biology, which is essential for learning genome functional analysis. Students are required to submit assignments based on prior preparation. Each student must bring their own PC to the lecture, as it will involve checking the latest information online. An active learning format will be adopted, where designated students will be asked to respond to assignments or questions, and their responses will serve as examples for reviewing the lecture content. The lecture will be conducted in English, with questions asked in English to ensure understanding. Assignments related to the lecture content will be given each time, and feedback will be provided during the lecture.",
+  "attention": "本講義では、ゲノム関連の基礎事項を扱うので、履修者の専門分野については特に限定しない。事前に講義資料をダウンロードして予習し、課題を事前に提出すること。授業では日本語を用いず、すべて英語で行う。 This lecture will cover fundamental topics related to the genome, so there are no specific restrictions on the fields of specialization among participants, Students are required to download the lecture materials in advance, prepare beforehand, and submit assignments prior to the lecture. The classes will be conducted entirely in English, with no use of Japanese.",
+  "preparation": "事前に講義資料をダウンロードして、必ず予習し、課題を事前に提出すること（英語資料なので、必ず事前準備をして講義に臨むこと）。講義には印刷した資料を必ず持参すること。講義後は、講義内容についてきちんと復習を行うこと。 Students are required to download the lecture materials in advance, thoroughly prepare, and submit assignments prior to the lecture (as the materials are in English, advance preparation is essential). Printed materials must be brought to the lecture. After the lecture, students must review the content thoroughly.",
+  "evaluation": "講義内容の簡単なまとめを英語で提出する毎回のレポート50%と期末試験50%で評価する。課題のフィードバックは講義中に行う。 Evaluation will be based on weekly reports summarizing the lecture content in English (50%) and a final examination (50%). Feedback on assignments will be provided during the lecture.",
+  "texts": [
+    {
+      "name": "指定なし。事前に講義資料をダウンロードして予習、復習すること。 No textbook is assigned. Students are required to download the lecture materials in advance, prepare beforehand, and review the content after the lecture.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "無し。 No reference books are assigned.",
+      "isbn": null
+    }
+  ],
+  "plans": []
+}

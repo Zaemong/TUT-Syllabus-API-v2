@@ -1,0 +1,34 @@
+{
+  "name": "バイオレメディエーション特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11701",
+  "semester": "2026年度 後期",
+  "date": "火 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ１０４",
+  "teachers": [
+    {
+      "name": "多田 雄一",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.167566Z",
+  "overview": "地球温暖化、砂漠化、土壌・水質・大気汚染などの環境問題の解決のために、微生物や植物を利用した省エネルギーかつ低負荷な環境修復技術であるバイオレメディエーションの活用が期待される。本講義では、遺伝子組換えを中心としたバイオレメディエーションに関する先端技術の研究や実用化の状況を解説し、今後の展望や課題について展望する。生物を利用した環境モニタリング技術についても解説する。演習としてバイオレメディエーションに関する文献検索とその結果のプレゼンテーションを行なう。 To address environmental issues such as global warming, desertification, and environmental pollution, the use of bioremediation—an environmental restoration technology that utilizes microorganisms and plants—is highly anticipated. I will explain the research and practical applications of bioremediation technologies, especially genetic engineering, and discuss future prospects and challenges. I will also cover environmental monitoring technologies that employ living organisms. As an exercise, students will conduct literature searches on bioremediation and present their findings.",
+  "goal": "バイオレメディエーションについての実学に基づく専門能力を身に付けることを目指す。特に遺伝子組換え技術の利用方法について理解する。文献調査とその結果の発表を通して、分析評価能力を身につける。 The goal is to acquire practical, specialized skills in bioremediation. Students will develop an understanding of how to utilize genetic engineering techniques. Students will cultivate analytical and evaluative abilities through literature research and presentation of the findings.",
+  "outcomes": "実学に基づく専門能力、分析・評価能力",
+  "initiative": "アクティブラーニング",
+  "way": "講義は日本語と英語の両方で行い、座学と文献検索とその結果の発表というかたちのアクティブラーニングを行う。毎回の講義後に課題を提出させる。ノートＰＣを使用する。 The lectures will be conducted in both Japanese and English, incorporating active learning through literature searches and presentations of the findings. Assignments must be submitted after each lecture. A laptop computer will be used.",
+  "attention": "学部開講科目の「微生物学」、「植物細胞工学」、または、類似の講義を履修していることが望ましい。 It is recommended that students have completed “Microbiology,” “Plant Cell and Genetic Engineering,” or similar lectures.",
+  "preparation": "PPT資料で予習をして、重要なポイントや疑問点などを整理しておくこと（90分程度）。受講後は復習を行うこと（90分程度)。 It is recommended that students read the PPT materials and organize important points and questions before each lecture (About 90 min). Review after each lecture (About 90 min).",
+  "evaluation": "演習（45％）と毎回の授業内容に関する小レポート（55％）の合計点で評価する。小レポートに対してフィードバックを行う。プレゼンテーションに対して授業内でフィードバックを行う。 Grade will be determined by the evaluation of your excise (45%) and your note from each lecture (55%). I will feedback my rating on your notes and presentation.",
+  "texts": [
+    {
+      "name": "指定しない。 Not specified",
+      "isbn": null
+    }
+  ],
+  "references": [],
+  "plans": []
+}

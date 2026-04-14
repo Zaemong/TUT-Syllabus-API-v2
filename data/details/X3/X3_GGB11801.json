@@ -1,0 +1,82 @@
+{
+  "name": "環境微生物学特論",
+  "category": "専門科目 バイオニクス専攻",
+  "type": "講義科目",
+  "code": "GGB11801",
+  "semester": "2026年度 後期",
+  "date": "月 2",
+  "target": "1年,2年",
+  "credit": "1.0",
+  "room": "片柳研究所Ｅ３０２",
+  "teachers": [
+    {
+      "name": "松井 徹",
+      "affiliation": "応用生物学科"
+    }
+  ],
+  "updated_at": "2026-04-13T17:52:24.282191Z",
+  "overview": "バイオテクノロジーによる環境保全技術は、環境修復（排水処理、土壌浄化など）、環境事前防止（生分解性ポリマーなど）、環境評価技術（バイオアッセイ法など）に分類される。本講義では、主に環境浄化、環境事前防止のための微生物機能、産業微生物の遺伝子工学・培養工学技術についての実学に基づく専門力を身に着けることを目指す。授業では日本語を用いず、すべて英語で行う。 Biotechnology for environmental conservation can be categorized into environmental remediation (wastewater treatment, soil decontamination, etc.), environmental prevention (biodegradable polymers, etc.), and environmental assessment technology (bioassay, etc.). This course aims to develop practical expertise in microbial functions for environmental remediation and prevention, as well as genetic engineering and fermentation engineering technologies for industrial microorganisms. Lecture will be presented mainly in English.",
+  "goal": "微生物探索と機能解析の基本的知識（遺伝子工学・生化学・情報科学的研究手法等)について理解すると共に、環境・化学品生産等に関係するバイオテクノロジー等の産業利用について理解することを目標とする。 Students will gain a fundamental understanding of microbial screening and functional analysis (including genetic engineering, biochemistry, and information science research methods), as well as an understanding of the industrial applications of biotechnology related to the environment technology and value-added chemical production.",
+  "outcomes": "国際的な教養、実学に基づく専門能力、コミュニケーション能力、論理的な思考力",
+  "initiative": "",
+  "way": "Web会議システムを用いてリアルタイムで講義を行う。理解を深めるためアクティブラーニングとして授業中に練習問題や演習問題を出す場合がある。次の講義時に前回課題に対するフィードバックを行う。 Lectures will be conducted in real time using a web conferencing system. To deepen understanding, practice problems and exercises may be given during the class. Feedback on the previous assignments will be provided at the beginning of the next class.",
+  "attention": "学部で、環境学，有機化学、生化学、応用微生物学などを学んでいることが望ましい。 Students are expected to have a solid foundation in undergraduate-level environmental science, organic chemistry, biochemistry, and applied microbiology.",
+  "preparation": "アップロードされた配布資料を基に予習し、不明な英語表記や内容についてチェックしておくこと。講義内容について復習するとともに、自分の研究との関連を考察しておくこと。Please review the distributed materials uploaded in advance and check for any unclear English terms or content. Review the lecture content and consider its relevance to your own research.",
+  "evaluation": "出席を前提とし、課題の提出、課題の点数により評価する。 Attendance is mandatory. Evaluation will be based on the submission of assignments and the scores of the assignments.",
+  "texts": [
+    {
+      "name": "特になし。参考資料を講義中に適宜配布する。 None. Reference materials will be distributed as needed during the lectures.",
+      "isbn": null
+    }
+  ],
+  "references": [
+    {
+      "name": "学術雑誌Chemosphere, Applied Microbiology and Biotechnology, Applied and Environmental Microbiologyなど Academic journals such as Chemosphere, Applied Microbiology &amp; Biotechnology, and Applied &amp; Environmental Microbiology.",
+      "isbn": null
+    }
+  ],
+  "plans": [
+    {
+      "1": {
+        "name": "ガイダンス 環境微生物学とは",
+        "incharge": null
+      }
+    },
+    {
+      "2": {
+        "name": "環境微生物探索法",
+        "incharge": null
+      }
+    },
+    {
+      "3": {
+        "name": "環境微生物多様性解析",
+        "incharge": null
+      }
+    },
+    {
+      "4": {
+        "name": "環境微生物利用例（難分解性化合物分解）",
+        "incharge": null
+      }
+    },
+    {
+      "5": {
+        "name": "環境微生物利用例（生体触媒）",
+        "incharge": null
+      }
+    },
+    {
+      "6": {
+        "name": "環境微生物の分子育種",
+        "incharge": null
+      }
+    },
+    {
+      "7": {
+        "name": "環境微生物利用プロセス",
+        "incharge": null
+      }
+    }
+  ]
+}
